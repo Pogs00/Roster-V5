@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-08-30T01:37:27.831Z",
+  "exportedAt": "2026-08-30T01:39:59.818Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -2018,6 +2018,7 @@
         "withDocuments": "No"
       },
       {
+        "id": "p23_wstiq",
         "projectNumber": "PRJ-0021",
         "store": "Popeyes",
         "branch": "Naga",
@@ -2027,13 +2028,12 @@
         "implCompletionDate": "",
         "turnoverDate": "",
         "supportAcceptanceDate": "",
-        "status": "Completed",
+        "status": "Pending Sign-off",
         "quarter": "2nd",
         "year": 2026,
         "existingClient": "Yes",
         "signOff": "No",
-        "withDocuments": "No",
-        "id": "p23_wstiq"
+        "withDocuments": "No"
       },
       {
         "id": "p24_71qe2",
