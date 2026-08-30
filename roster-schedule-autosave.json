@@ -1,0 +1,1661 @@
+{
+  "app": "roster-team-schedule",
+  "exportedAt": "2026-08-30T00:52:16.143Z",
+  "members": [
+    {
+      "id": "m_jig7aydp",
+      "name": "Lawrence Fernandez",
+      "email": "lawrence.fernandez@geniex.tech",
+      "colorIndex": 2
+    },
+    {
+      "id": "m_lnyo2eed",
+      "name": "Jezreel Abesamis",
+      "email": "jezreel.abesamis@geniex.tech",
+      "colorIndex": 0
+    },
+    {
+      "id": "m_00tz16bv",
+      "name": "Jaymark Bagobe",
+      "email": "jaymark.bagobe@geniex.tech",
+      "colorIndex": 1
+    }
+  ],
+  "attendanceTags": [
+    {
+      "id": "office",
+      "label": "Office",
+      "color": "#2F6FED"
+    },
+    {
+      "id": "at_gfigh1b7",
+      "label": "Work From Home",
+      "color": "#16A34A"
+    },
+    {
+      "id": "at_7v4aujf5",
+      "label": "Leave",
+      "color": "#F59E0B"
+    },
+    {
+      "id": "at_3yzk9gc2",
+      "label": "S1 Duty",
+      "color": "#DC2626"
+    },
+    {
+      "id": "at_wcy669ra",
+      "label": "Holiday",
+      "color": "#7C3AED"
+    },
+    {
+      "id": "at_0u69b8jt",
+      "label": "Official Business",
+      "color": "#0891B2"
+    },
+    {
+      "id": "at_tljjo94f",
+      "label": "Office/OB",
+      "color": "#DB2777"
+    },
+    {
+      "id": "at_ncveij9q",
+      "label": "OB/Office",
+      "color": "#65A30D"
+    },
+    {
+      "id": "at_jida8xir",
+      "label": "Rest Day",
+      "color": "#EA580C"
+    },
+    {
+      "id": "at_tp8c1pfc",
+      "label": "HD/Office",
+      "color": "#4F46E5"
+    }
+  ],
+  "taskStatuses": [
+    {
+      "id": "completed",
+      "label": "Completed",
+      "color": "#16A34A"
+    },
+    {
+      "id": "in-progress",
+      "label": "In Progress",
+      "color": "#2F6FED"
+    },
+    {
+      "id": "not-started",
+      "label": "Not Started",
+      "color": "#98A2B3"
+    },
+    {
+      "id": "ts_fnbk482o",
+      "label": "Cancelled",
+      "color": "#DC2626"
+    },
+    {
+      "id": "ts_i4kzogvj",
+      "label": "For Testing",
+      "color": "#7C3AED"
+    },
+    {
+      "id": "ts_6jxo1r4g",
+      "label": "Pending",
+      "color": "#0891B2"
+    }
+  ],
+  "scheduleData": {
+    "m_lnyo2eed|2026-08-17": {
+      "tag": "at_0u69b8jt",
+      "tasks": [
+        {
+          "id": "t_sry14n5o",
+          "date": "2026-08-17",
+          "endDate": "",
+          "text": "BK Escario (JPOS Migration)",
+          "status": "completed"
+        }
+      ],
+      "comment": "CTS"
+    },
+    "m_jig7aydp|2026-08-17": {
+      "tag": "at_tljjo94f",
+      "tasks": [
+        {
+          "id": "t_kgu76fwi",
+          "date": "2026-08-17",
+          "endDate": "",
+          "text": "Retail Weekly Meeting @9am",
+          "status": "ts_fnbk482o"
+        },
+        {
+          "id": "t_zx6fc181",
+          "date": "2026-08-17",
+          "endDate": "",
+          "text": "Wendy's CMS Training",
+          "status": "ts_fnbk482o"
+        },
+        {
+          "id": "t_yep10fbk",
+          "date": "2026-08-17",
+          "endDate": "",
+          "text": "Quick Discussion with Dev team regarding Tori Sanwa Issue",
+          "status": "completed"
+        },
+        {
+          "id": "t_p6xm1e4w",
+          "date": "2026-08-17",
+          "endDate": "",
+          "text": "Configure Starbucks digital menu board",
+          "status": "completed"
+        }
+      ],
+      "comment": "Retail meeting moved to another date due to conflict, Wendy's meeting moved as well due to increment weather and the personnel to train is on SL"
+    },
+    "m_lnyo2eed|2026-08-18": {
+      "tag": "at_0u69b8jt",
+      "tasks": [
+        {
+          "id": "t_e8vsjdkd",
+          "date": "2026-08-18",
+          "endDate": "",
+          "text": "BK Cabahug (JPOS Migration)",
+          "status": "completed"
+        }
+      ],
+      "comment": "CTS"
+    },
+    "m_jig7aydp|2026-08-18": {
+      "tag": "at_gfigh1b7",
+      "tasks": [
+        {
+          "id": "t_k7wm2m3b",
+          "date": "2026-08-18",
+          "endDate": "",
+          "text": "The Moment Group Supy Demo @10am",
+          "status": "completed"
+        },
+        {
+          "id": "t_mtib8zh5",
+          "date": "2026-08-18",
+          "endDate": "2026-08-19",
+          "text": "Tori Sanwa Test Machine Configuration",
+          "status": "completed"
+        },
+        {
+          "id": "t_gqczi7wf",
+          "date": "2026-08-18",
+          "endDate": "",
+          "text": "Update Manhours report",
+          "status": "completed"
+        },
+        {
+          "id": "t_ht4tedhd",
+          "date": "2026-08-18",
+          "endDate": "",
+          "text": "WF Meeting",
+          "status": "completed"
+        }
+      ],
+      "comment": "Tori Sanwa testing for continuation tomorrow"
+    },
+    "m_lnyo2eed|2026-08-19": {
+      "tag": "at_7v4aujf5",
+      "tasks": [],
+      "comment": "CTS"
+    },
+    "m_jig7aydp|2026-08-19": {
+      "tag": "office",
+      "tasks": [
+        {
+          "id": "t_g9dm8rw0",
+          "date": "2026-08-19",
+          "endDate": "",
+          "text": "PLK ATO demo @1:30pm",
+          "status": "ts_fnbk482o"
+        },
+        {
+          "id": "t_84nkvy9g",
+          "date": "2026-08-19",
+          "endDate": "",
+          "text": "Check Counter issues (Part 2)",
+          "status": "ts_fnbk482o"
+        },
+        {
+          "id": "t_l899makt",
+          "date": "2026-08-19",
+          "endDate": "",
+          "text": "Wendy's training confirmation",
+          "status": "completed"
+        },
+        {
+          "id": "t_0kpd367g",
+          "date": "2026-08-19",
+          "endDate": "",
+          "text": "Torikizoku presentation confirmation on 08/25/2026",
+          "status": "completed"
+        },
+        {
+          "id": "t_vqnx9sw2",
+          "date": "2026-08-19",
+          "endDate": "",
+          "text": "Aloha Meeting @10am",
+          "status": "completed"
+        },
+        {
+          "id": "t_kfatjwz3",
+          "date": "2026-08-19",
+          "endDate": "",
+          "text": "Slim Chicken Initial Meeting",
+          "status": "completed"
+        },
+        {
+          "id": "t_4f8irdor",
+          "date": "2026-08-19",
+          "endDate": "",
+          "text": "SM Event Meeting @1pm",
+          "status": "completed"
+        },
+        {
+          "id": "t_p1crgoh0",
+          "date": "2026-08-19",
+          "endDate": "",
+          "text": "Add images for Frosty Matcha and Matcha Coffee Wendy's Caltex Mega Station",
+          "status": "completed"
+        }
+      ],
+      "comment": "NCR meeting for check counter was moved, same with the ATOD demo"
+    },
+    "m_lnyo2eed|2026-08-21": {
+      "tag": "at_wcy669ra",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-08-21": {
+      "tag": "at_wcy669ra",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-08-21": {
+      "tag": "at_wcy669ra",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-08-31": {
+      "tag": "at_wcy669ra",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-08-31": {
+      "tag": "at_wcy669ra",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-08-31": {
+      "tag": "at_wcy669ra",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-08-20": {
+      "tag": "office",
+      "tasks": [
+        {
+          "id": "t_t82kmkuq",
+          "date": "2026-08-20",
+          "endDate": "",
+          "text": "Torikizoku KDS run through",
+          "status": "completed"
+        },
+        {
+          "id": "t_c1k1ifz3",
+          "date": "2026-08-20",
+          "endDate": "",
+          "text": "AFH Supy demo @11am",
+          "status": "completed"
+        },
+        {
+          "id": "t_wxnkn42i",
+          "date": "2026-08-20",
+          "endDate": "",
+          "text": "Tori Sanwa Monitoring - Check in with IT and store",
+          "status": "completed"
+        },
+        {
+          "id": "t_srj934tt",
+          "date": "2026-08-20",
+          "endDate": "",
+          "text": "Create list for Aloha project action plan",
+          "status": "completed"
+        },
+        {
+          "id": "t_7wysx1ib",
+          "date": "2026-08-20",
+          "endDate": "",
+          "text": "Email Let's for follow up of the pending deliverables",
+          "status": "completed"
+        },
+        {
+          "id": "t_9yf6fcrv",
+          "date": "2026-08-20",
+          "endDate": "",
+          "text": "Check Counter issues (Part 2) Meeting",
+          "status": "completed"
+        },
+        {
+          "id": "t_7tfflwcp",
+          "date": "2026-08-20",
+          "endDate": "",
+          "text": "Wendy's Caltex adding of new item in Aloha and SOK",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-08-17": {
+      "tag": "office",
+      "tasks": [
+        {
+          "id": "t_tfgxsbpy",
+          "date": "2026-08-17",
+          "endDate": "2026-08-28",
+          "text": "MenuX V2 Testing",
+          "status": "ts_6jxo1r4g"
+        },
+        {
+          "id": "t_yyjjbm7w",
+          "date": "2026-08-17",
+          "endDate": "",
+          "text": "Aloha Training",
+          "status": "completed"
+        },
+        {
+          "id": "t_r1nniyd1",
+          "date": "2026-08-17",
+          "endDate": "2026-08-26",
+          "text": "Aloha Report Utility",
+          "status": "ts_6jxo1r4g"
+        }
+      ],
+      "comment": "For continuation tomorrow BIR and menuX testing"
+    },
+    "m_00tz16bv|2026-08-18": {
+      "tag": "office",
+      "tasks": [
+        {
+          "id": "t_cmabol8f",
+          "date": "2026-08-18",
+          "endDate": "2026-08-28",
+          "text": "Aloha Training",
+          "status": "in-progress"
+        },
+        {
+          "id": "t_g6f9u400",
+          "date": "2026-08-18",
+          "endDate": "",
+          "text": "PLK price update issue",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-08-19": {
+      "tag": "office",
+      "tasks": [
+        {
+          "id": "t_7wx6n30f",
+          "date": "2026-08-19",
+          "endDate": "",
+          "text": "Aloha Training",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-08-20": {
+      "tag": "at_0u69b8jt",
+      "tasks": [
+        {
+          "id": "t_0x98icsh",
+          "date": "2026-08-20",
+          "endDate": "",
+          "text": "BK Times (JPOS Migration)",
+          "status": "completed"
+        }
+      ],
+      "comment": "CTS"
+    },
+    "m_00tz16bv|2026-08-20": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-08-24": {
+      "tag": "office",
+      "tasks": [
+        {
+          "id": "t_23ya3v90",
+          "date": "2026-08-24",
+          "endDate": "",
+          "text": "Retail Meeting @9am",
+          "status": "completed"
+        },
+        {
+          "id": "t_dfudj9fn",
+          "date": "2026-08-24",
+          "endDate": "",
+          "text": "Ticket assignment",
+          "status": "completed"
+        },
+        {
+          "id": "t_hxfl7yio",
+          "date": "2026-08-24",
+          "endDate": "",
+          "text": "Wendy's CMS Training",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-08-24": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-08-24": {
+      "tag": "at_tljjo94f",
+      "tasks": [
+        {
+          "id": "t_5dx66t3t",
+          "date": "2026-08-24",
+          "endDate": "",
+          "text": "Retail Meeting @9am",
+          "status": "completed"
+        },
+        {
+          "id": "t_b37uxbe9",
+          "date": "2026-08-24",
+          "endDate": "",
+          "text": "Ops Meeting @2pm",
+          "status": "ts_fnbk482o"
+        },
+        {
+          "id": "t_e4ybt7vp",
+          "date": "2026-08-24",
+          "endDate": "",
+          "text": "Tori Sanwa plugin update with S' Harmon",
+          "status": "completed"
+        },
+        {
+          "id": "t_huqd1r40",
+          "date": "2026-08-24",
+          "endDate": "",
+          "text": "Torikizoku run through before Aug 25 presentation",
+          "status": "completed"
+        }
+      ],
+      "comment": "For tori sanwa waiting for S' Harmon's feedback, for Torikizoku for continuation of testing tomorrow morning"
+    },
+    "m_lnyo2eed|2026-08-27": {
+      "tag": "office",
+      "tasks": [
+        {
+          "id": "t_6mvoiz2t",
+          "date": "2026-08-27",
+          "endDate": "",
+          "text": "menuX® Training",
+          "status": "ts_fnbk482o"
+        },
+        {
+          "id": "t_fxnsojvj",
+          "date": "2026-08-27",
+          "endDate": "",
+          "text": "Ticket assignment",
+          "status": "completed"
+        },
+        {
+          "id": "t_9m9u79x5",
+          "date": "2026-08-27",
+          "endDate": "2026-08-28",
+          "text": "Grab Offline issue support",
+          "status": "in-progress"
+        },
+        {
+          "id": "t_jxuxu5c8",
+          "date": "2026-08-27",
+          "endDate": "",
+          "text": "Torisanwa Menux testing – All Items",
+          "status": "completed"
+        },
+        {
+          "id": "t_yd4y5b8u",
+          "date": "2026-08-27",
+          "endDate": "",
+          "text": "Ticket#24734 - WF MOA - Discrepancy of senior discount",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-08-27": {
+      "tag": "at_7v4aujf5",
+      "tasks": [],
+      "comment": "SL"
+    },
+    "m_jig7aydp|2026-08-27": {
+      "tag": "office",
+      "tasks": [
+        {
+          "id": "t_iq0wf38i",
+          "date": "2026-08-27",
+          "endDate": "",
+          "text": "menuX® Training",
+          "status": "ts_fnbk482o"
+        },
+        {
+          "id": "t_zp7rtjf6",
+          "date": "2026-08-27",
+          "endDate": "2026-08-28",
+          "text": "Let's Eat Aloha and Plugin testing",
+          "status": "in-progress"
+        },
+        {
+          "id": "t_p76a22k2",
+          "date": "2026-08-27",
+          "endDate": "2026-08-28",
+          "text": "Let's SOK and Digital Menu Board setup",
+          "status": "not-started"
+        }
+      ],
+      "comment": "8/27 - SOK and Digital Menu Board not yet installed c/o Dev | 8/28 - S' Harmon ongoing update for NACD, Kent waiting for M' Yeng advise for SOK"
+    },
+    "m_lnyo2eed|2026-08-25": {
+      "tag": "office",
+      "tasks": [
+        {
+          "id": "t_j22iilt5",
+          "date": "2026-08-25",
+          "endDate": "",
+          "text": "Ticket assignment",
+          "status": "completed"
+        },
+        {
+          "id": "t_zcx9g5ix",
+          "date": "2026-08-25",
+          "endDate": "",
+          "text": "Tori Sanwa plugin update testing",
+          "status": "completed"
+        },
+        {
+          "id": "t_exonn8l8",
+          "date": "2026-08-25",
+          "endDate": "",
+          "text": "Tori Sanwa plugin update in store",
+          "status": "completed"
+        },
+        {
+          "id": "t_clmmzuno",
+          "date": "2026-08-25",
+          "endDate": "",
+          "text": "UCC Bridgetowne – BIR Report installation and Configuration",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-08-25": {
+      "tag": "at_7v4aujf5",
+      "tasks": [],
+      "comment": "CTO"
+    },
+    "m_jig7aydp|2026-08-25": {
+      "tag": "office",
+      "tasks": [
+        {
+          "id": "t_824b7h4a",
+          "date": "2026-08-25",
+          "endDate": "",
+          "text": "Torikizoku KDS presentation and status update @1pm",
+          "status": "completed"
+        },
+        {
+          "id": "t_e88pesvt",
+          "date": "2026-08-25",
+          "endDate": "",
+          "text": "Tori Sanwa testing",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-08-26": {
+      "tag": "office",
+      "tasks": [
+        {
+          "id": "t_8z3n4jso",
+          "date": "2026-08-26",
+          "endDate": "",
+          "text": "Ticket assignment",
+          "status": "completed"
+        },
+        {
+          "id": "t_xy0qav7d",
+          "date": "2026-08-26",
+          "endDate": "",
+          "text": "UCC Bridgetown – License update and Coordination on how to get the ff ( Zread, Sales Summary and Ejournal)",
+          "status": "completed"
+        },
+        {
+          "id": "t_jxckqovj",
+          "date": "2026-08-26",
+          "endDate": "",
+          "text": "Support Meeting",
+          "status": "completed"
+        },
+        {
+          "id": "t_a7n1jfp5",
+          "date": "2026-08-26",
+          "endDate": "",
+          "text": "Assist on UCC store BIR concern",
+          "status": "completed"
+        },
+        {
+          "id": "t_t2197yg3",
+          "date": "2026-08-26",
+          "endDate": "",
+          "text": "Menux Item Update meeting",
+          "status": "completed"
+        },
+        {
+          "id": "t_9upt4tla",
+          "date": "2026-08-26",
+          "endDate": "",
+          "text": "Torisanwa update monitoring",
+          "status": "completed"
+        },
+        {
+          "id": "t_gyky8qg6",
+          "date": "2026-08-26",
+          "endDate": "",
+          "text": "Create Liquidation for Cebu JPOS rollout",
+          "status": "completed"
+        }
+      ],
+      "comment": "Tori Sanwa no issue encountered so far"
+    },
+    "m_00tz16bv|2026-08-26": {
+      "tag": "at_7v4aujf5",
+      "tasks": [
+        {
+          "id": "t_fpj9bqmk",
+          "date": "2026-08-26",
+          "endDate": "2026-08-28",
+          "text": "Aloha v12 Plugin Testing",
+          "status": "ts_6jxo1r4g"
+        }
+      ],
+      "comment": "SL"
+    },
+    "m_jig7aydp|2026-08-26": {
+      "tag": "office",
+      "tasks": [
+        {
+          "id": "t_7hppe2hu",
+          "date": "2026-08-26",
+          "endDate": "",
+          "text": "Tori Sanwa menuX® Meeting F2F @10am",
+          "status": "completed"
+        },
+        {
+          "id": "t_q5lr6ioi",
+          "date": "2026-08-26",
+          "endDate": "",
+          "text": "Create PPT presentation for Tori Sanwa",
+          "status": "completed"
+        },
+        {
+          "id": "t_q8e8bviv",
+          "date": "2026-08-26",
+          "endDate": "",
+          "text": "Create minutes of meeting and send it to all stakeholders",
+          "status": "completed"
+        },
+        {
+          "id": "t_u1fgeftx",
+          "date": "2026-08-26",
+          "endDate": "",
+          "text": "Task update with Dev",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-08-28": {
+      "tag": "at_gfigh1b7",
+      "tasks": [
+        {
+          "id": "t_42a1t3zo",
+          "date": "2026-08-28",
+          "endDate": "",
+          "text": "Ticket assignment",
+          "status": "completed"
+        },
+        {
+          "id": "t_yugepnzr",
+          "date": "2026-08-28",
+          "endDate": "2026-09-01",
+          "text": "Amphil manual creation for plugin",
+          "status": "in-progress"
+        },
+        {
+          "id": "t_1vw0ujy0",
+          "date": "2026-08-28",
+          "endDate": "",
+          "text": "Support Meeting - PLK Update MenuX",
+          "status": "completed"
+        },
+        {
+          "id": "t_vunw2i3n",
+          "date": "2026-08-28",
+          "endDate": "2026-09-01",
+          "text": "Wendys PITX Remote - Check issue",
+          "status": "ts_6jxo1r4g"
+        },
+        {
+          "id": "t_ykv9t9pm",
+          "date": "2026-08-28",
+          "endDate": "",
+          "text": "Torisanwa monitoring",
+          "status": "completed"
+        },
+        {
+          "id": "t_efh3nds6",
+          "date": "2026-08-28",
+          "endDate": "",
+          "text": "Yifang Circuit - BIR Audit ( Zread/BIR Report checking and Ejournal creation)",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-08-28": {
+      "tag": "office",
+      "tasks": [
+        {
+          "id": "t_xennax67",
+          "date": "2026-08-28",
+          "endDate": "",
+          "text": "PLK check Price update activation",
+          "status": "completed"
+        },
+        {
+          "id": "t_i6lmie8z",
+          "date": "2026-08-28",
+          "endDate": "2026-09-02",
+          "text": "Create sign off for plk stores",
+          "status": "in-progress"
+        },
+        {
+          "id": "t_uagmmdsp",
+          "date": "2026-08-28",
+          "endDate": "",
+          "text": "AI Training",
+          "status": "completed"
+        },
+        {
+          "id": "t_iv365o3z",
+          "date": "2026-08-28",
+          "endDate": "",
+          "text": "Team Meeting SOK and Update for BIR Report",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-08-28": {
+      "tag": "office",
+      "tasks": [
+        {
+          "id": "t_g0w80pft",
+          "date": "2026-08-28",
+          "endDate": "",
+          "text": "AI session @10am",
+          "status": "completed"
+        },
+        {
+          "id": "t_11h9ag7n",
+          "date": "2026-08-28",
+          "endDate": "",
+          "text": "Torikizoku Assist API meeting @4pm",
+          "status": "ts_fnbk482o"
+        },
+        {
+          "id": "t_vus4viti",
+          "date": "2026-08-28",
+          "endDate": "",
+          "text": "Let's SOK design confirmation with S' Rob",
+          "status": "completed"
+        },
+        {
+          "id": "t_qk5rzg7k",
+          "date": "2026-08-28",
+          "endDate": "",
+          "text": "Create BRD for Flaro API",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-12-25": {
+      "tag": "at_wcy669ra",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-12-25": {
+      "tag": "at_wcy669ra",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-12-25": {
+      "tag": "at_wcy669ra",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-12-31": {
+      "tag": "at_wcy669ra",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-12-31": {
+      "tag": "at_wcy669ra",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-12-31": {
+      "tag": "at_wcy669ra",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2027-01-01": {
+      "tag": "at_wcy669ra",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2027-01-01": {
+      "tag": "at_wcy669ra",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2027-01-01": {
+      "tag": "at_wcy669ra",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-08-14": {
+      "tag": "at_gfigh1b7",
+      "tasks": [
+        {
+          "id": "t_bg2cj381",
+          "date": "2026-08-14",
+          "endDate": "",
+          "text": "Wendy's Aloha Dave's Combo mod price update",
+          "status": "completed"
+        },
+        {
+          "id": "t_dy9zlb6q",
+          "date": "2026-08-14",
+          "endDate": "",
+          "text": "Wendy's void print out update",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-08-14": {
+      "tag": "office",
+      "tasks": [
+        {
+          "id": "t_35chu7sy",
+          "date": "2026-08-14",
+          "endDate": "",
+          "text": "Rain's training monitoring",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-08-14": {
+      "tag": "office",
+      "tasks": [
+        {
+          "id": "t_5mpqp062",
+          "date": "2026-08-14",
+          "endDate": "",
+          "text": "Starbuck menu board and CMS build up",
+          "status": "completed"
+        },
+        {
+          "id": "t_cifda9ca",
+          "date": "2026-08-14",
+          "endDate": "",
+          "text": "Email update for Let's and Tori Sanwa",
+          "status": "completed"
+        },
+        {
+          "id": "t_ceuwdehq",
+          "date": "2026-08-14",
+          "endDate": "",
+          "text": "Moved Torikizoku unit to Dev team and setup",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-09-01": {
+      "tag": "office",
+      "tasks": [
+        {
+          "id": "t_a29eifw3",
+          "date": "2026-09-01",
+          "endDate": "",
+          "text": "Retail Meeting @9am",
+          "status": "not-started"
+        },
+        {
+          "id": "t_p2uelf3b",
+          "date": "2026-09-01",
+          "endDate": "",
+          "text": "Ops Meeting @2pm",
+          "status": "not-started"
+        }
+      ],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-09-01": {
+      "tag": "at_7v4aujf5",
+      "tasks": [],
+      "comment": "CTO"
+    },
+    "m_00tz16bv|2026-09-01": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-09-02": {
+      "tag": "at_tljjo94f",
+      "tasks": [
+        {
+          "id": "t_d9f8bsdl",
+          "date": "2026-09-02",
+          "endDate": "",
+          "text": "Let's Alignment Meeting @1pm",
+          "status": "not-started"
+        },
+        {
+          "id": "t_r3qiiv7d",
+          "date": "2026-09-02",
+          "endDate": "2026-09-04",
+          "text": "Wendy's manual creation",
+          "status": "not-started"
+        }
+      ],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-09-02": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-09-02": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-09-03": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-09-03": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-09-03": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-09-04": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-09-04": {
+      "tag": "at_gfigh1b7",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-09-04": {
+      "tag": "at_gfigh1b7",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-09-07": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-09-07": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-09-07": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-09-08": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-09-08": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-09-08": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-09-09": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-09-09": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-09-09": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-09-10": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-09-10": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-09-10": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-09-11": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-09-11": {
+      "tag": "at_gfigh1b7",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-09-11": {
+      "tag": "at_gfigh1b7",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-09-14": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-09-14": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-09-14": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-09-15": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-09-15": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-09-15": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-09-16": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-09-16": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-09-16": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-09-17": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-09-17": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-09-17": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-09-18": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-09-18": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-09-18": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-09-21": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-09-21": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-09-21": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-09-22": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-09-22": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-09-22": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-09-23": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-09-23": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-09-23": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-09-24": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-09-24": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-09-24": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-09-25": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-09-25": {
+      "tag": "at_gfigh1b7",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-09-25": {
+      "tag": "at_gfigh1b7",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-09-28": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-09-28": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-09-28": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-09-29": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-09-29": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-09-29": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-09-30": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-09-30": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-09-30": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-08-23": {
+      "tag": "at_3yzk9gc2",
+      "tasks": [
+        {
+          "id": "t_ib3px7ky",
+          "date": "2026-08-23",
+          "endDate": "",
+          "text": "S1 Duty",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    }
+  },
+  "projectMonitoring": {
+    "statuses": [
+      "Not Started",
+      "In Progress",
+      "Completed",
+      "Delayed",
+      "For Internal Discussion",
+      "For Client Confirmation",
+      "For Testing",
+      "For Monitoring",
+      "For Bug Fixing"
+    ],
+    "tasks": [
+      {
+        "store": "Wendy's HO",
+        "description": "CMS Training",
+        "pointPerson": "Lawrence",
+        "status": "Completed",
+        "startDate": "2026-08-17",
+        "endDate": "2026-08-17",
+        "reviseEndDate": "2026-08-24",
+        "remarks": [
+          {
+            "date": "8/18/2026, 6:04:58 PM",
+            "text": "Moved due to inclement weather"
+          },
+          {
+            "date": "8/19/2026, 7:26:06 AM",
+            "text": "Coordinate M' Joyce and S' Zedric availability for 08/24/2026 training"
+          }
+        ]
+      },
+      {
+        "store": "Wendy's Caltex Mega Station",
+        "description": "Make the order number bigger in the receipt",
+        "pointPerson": "Harmon",
+        "status": "Completed",
+        "startDate": "2026-08-21",
+        "endDate": "2026-08-21",
+        "reviseEndDate": "",
+        "remarks": [
+          {
+            "date": "8/18/2026, 6:05:08 PM",
+            "text": "For internal discussion"
+          },
+          {
+            "date": "8/19/2026, 8:14:31 AM",
+            "text": "Update the receipt today, for client confirmation"
+          },
+          {
+            "date": "8/20/2026, 2:33:42 PM",
+            "text": "Receipt update is ok as per S' Zedric"
+          }
+        ]
+      },
+      {
+        "store": "All Stores",
+        "description": "menuX v2 text file validation",
+        "pointPerson": "Harmon / Kent",
+        "status": "Delayed",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-19",
+        "reviseEndDate": "2026-08-28",
+        "remarks": [
+          {
+            "date": "8/18/2026, 6:09:28 PM",
+            "text": "Need to get the actual timeline, to make sure the project is moving"
+          },
+          {
+            "date": "8/19/2026, 2:32:02 PM",
+            "text": "Update to S' Raven, he will coordinate with Dev"
+          },
+          {
+            "date": "8/25/2026, 7:46:07 AM",
+            "text": "No feedback"
+          },
+          {
+            "date": "8/27/2026, 5:18:04 PM",
+            "text": "Per confirmation with M' Yeng, waiting for testing result c/o Jay"
+          }
+        ]
+      },
+      {
+        "store": "All V19 Stores",
+        "description": "BIR Report Utility",
+        "pointPerson": "Nelson",
+        "status": "Delayed",
+        "startDate": "2026-08-17",
+        "endDate": "2026-08-21",
+        "reviseEndDate": "2026-08-26",
+        "remarks": [
+          {
+            "date": "8/18/2026, 6:10:59 PM",
+            "text": "Need to get the actual timeline, to make sure the project is moving"
+          },
+          {
+            "date": "8/19/2026, 2:32:09 PM",
+            "text": "Update to S' Raven, he will coordinate with Dev"
+          },
+          {
+            "date": "8/25/2026, 7:45:59 AM",
+            "text": "No feedback"
+          },
+          {
+            "date": "8/27/2026, 5:18:33 PM",
+            "text": "Per confirmation with M' Yeng, waiting for testing result c/o Jay"
+          }
+        ]
+      },
+      {
+        "store": "Torikizoku Serendra",
+        "description": "KDS Development",
+        "pointPerson": "Von",
+        "status": "For Testing",
+        "startDate": "2026-08-17",
+        "endDate": "2026-08-25",
+        "reviseEndDate": "2026-09-02",
+        "remarks": [
+          {
+            "date": "8/18/2026, 6:11:20 PM",
+            "text": "For run through tomorrow 08/19/2026"
+          },
+          {
+            "date": "8/19/2026, 2:33:50 PM",
+            "text": "Test with S' Von 1. Sound for KDS not working 2. Encounter error upon printing on KDS"
+          },
+          {
+            "date": "8/20/2026, 6:05:53 PM",
+            "text": "Perform run through today, so far minimal error and pending, for continuation on Monday"
+          },
+          {
+            "date": "8/25/2026, 7:45:43 AM",
+            "text": "Continuation testing this morning, and presentation in the afternoon"
+          },
+          {
+            "date": "8/25/2026, 5:45:11 PM",
+            "text": "With minimal concern, to be update c/o Dev team"
+          },
+          {
+            "date": "8/25/2026, 5:47:26 PM",
+            "text": "Old revise date 08/25/2026"
+          },
+          {
+            "date": "8/28/2026, 1:41:26 PM",
+            "text": "History > Should display the time when it was ordered not the bumping time History > Should be auto display in history screen. No need to update Restore > Tapping the “Restore” button, inserts the data into the first column of the standard order screen - based on the order time Additional > Change the font size same with RST Additional > Should display every additional order in new column not retain in existing column UI > Make the horizontal line properly align Settings > should have modal for selecting manager and setting pin"
+          }
+        ]
+      },
+      {
+        "store": "Let's Eat Rockwell Pasig",
+        "description": "SOK Development",
+        "pointPerson": "Kent",
+        "status": "In Progress",
+        "startDate": "2026-08-19",
+        "endDate": "2026-08-27",
+        "reviseEndDate": "2026-09-02",
+        "remarks": [
+          {
+            "date": "8/18/2026, 6:12:03 PM",
+            "text": "Need to get the actual timeline, to make sure the project is moving"
+          },
+          {
+            "date": "8/19/2026, 2:32:54 PM",
+            "text": "Coordinate to Dev team already, waiting for timeline"
+          },
+          {
+            "date": "8/25/2026, 7:45:09 AM",
+            "text": "For follow up today"
+          },
+          {
+            "date": "8/25/2026, 5:46:30 PM",
+            "text": "Started the development today"
+          },
+          {
+            "date": "8/28/2026, 12:33:35 PM",
+            "text": "Based on Kent update, need to have a final UI, sent an email to Let's owner and he approved the initial design. Forward it back to dev team for configuration"
+          }
+        ]
+      },
+      {
+        "store": "Tori Sanwa Mitsukoshi",
+        "description": "Plugin update monitoring",
+        "pointPerson": "Lawrence",
+        "status": "For Monitoring",
+        "startDate": "2026-08-19",
+        "endDate": "2026-08-25",
+        "reviseEndDate": "",
+        "remarks": [
+          {
+            "date": "8/19/2026, 5:38:57 PM",
+            "text": "Load the update today, start of monitoring"
+          },
+          {
+            "date": "8/20/2026, 8:34:28 AM",
+            "text": "Check in with Torikizoku IT regarding plugin update, as per M' Quennie no restart encountered last night, but the PWD discount doesn't have the option to add PWD details."
+          },
+          {
+            "date": "8/20/2026, 2:33:07 PM",
+            "text": "5 transaction last night, currently 2 transactions as of this time"
+          },
+          {
+            "date": "8/21/2026, 3:55:06 PM",
+            "text": "Encounter restart today 3 times, send an email to Dev team for prio checking"
+          },
+          {
+            "date": "8/24/2026, 2:07:33 PM",
+            "text": "During 5 days monitoring, still encountered restart and error adding item"
+          },
+          {
+            "date": "8/24/2026, 2:07:40 PM",
+            "text": "To update the plugin again today"
+          },
+          {
+            "date": "8/25/2026, 7:44:38 AM",
+            "text": "Waiting for the new release today"
+          },
+          {
+            "date": "8/25/2026, 11:10:04 AM",
+            "text": "Blank kiosk order, but textfile present in menuX folder"
+          },
+          {
+            "date": "8/25/2026, 5:43:48 PM",
+            "text": "Load new update today"
+          },
+          {
+            "date": "8/26/2026, 2:27:09 PM",
+            "text": "No issue today so far confirmed by M' Quennie"
+          }
+        ]
+      },
+      {
+        "store": "Tori Sanwa Mitsukoshi",
+        "description": "Regular discount default presentation format for percentage not working",
+        "pointPerson": "Lawrence",
+        "status": "For Monitoring",
+        "startDate": "2026-08-20",
+        "endDate": "2026-08-24",
+        "reviseEndDate": "",
+        "remarks": [
+          {
+            "date": "8/21/2026, 3:56:33 PM",
+            "text": "Coordinated with S' Harmon but no feedback yet"
+          },
+          {
+            "date": "8/25/2026, 7:44:59 AM",
+            "text": "Waiting for the new release today"
+          },
+          {
+            "date": "8/25/2026, 5:43:56 PM",
+            "text": "Load new update today"
+          },
+          {
+            "date": "8/26/2026, 2:27:22 PM",
+            "text": "No issue today so far confirmed by M' Quennie"
+          }
+        ]
+      },
+      {
+        "store": "Let's Eat Rockwell Pasig",
+        "description": "Digital Menu Board Installation",
+        "pointPerson": "Kent",
+        "status": "Not Started",
+        "startDate": "2026-08-27",
+        "endDate": "2026-09-01",
+        "reviseEndDate": "",
+        "remarks": [
+          {
+            "date": "8/28/2026, 1:49:30 PM",
+            "text": "Still not started by the dev team"
+          }
+        ]
+      },
+      {
+        "store": "New Store Standard",
+        "description": "Aloha Standardization - Standard Plugin Testing",
+        "pointPerson": "Lawrence",
+        "status": "In Progress",
+        "startDate": "2026-08-27",
+        "endDate": "2026-09-04",
+        "reviseEndDate": "",
+        "remarks": [
+          {
+            "date": "8/27/2026, 5:16:25 PM",
+            "text": "Test Aloha QS v19.9 Plugin - Header and Footer - ok - SCD - ok - PWD - ok - Diplomat - ok - NACD - with error - Ejournal - ok - Receipt presentation - ok"
+          },
+          {
+            "date": "8/28/2026, 1:49:01 PM",
+            "text": "Waiting for S' Harmon fix for NACD"
+          }
+        ]
+      },
+      {
+        "store": "New Store Standard",
+        "description": "Aloha Standardization - Standard BIR Report Utility",
+        "pointPerson": "Lawrence",
+        "status": "Not Started",
+        "startDate": "2026-09-01",
+        "endDate": "2026-09-04",
+        "reviseEndDate": "",
+        "remarks": [
+          {
+            "date": "8/27/2026, 5:16:49 PM",
+            "text": "Not yet available"
+          }
+        ]
+      }
+    ]
+  },
+  "projectTurnover": {
+    "statuses": [
+      {
+        "name": "Completed",
+        "color": "#2d5c4e"
+      },
+      {
+        "name": "In Progress",
+        "color": "#3b5bab"
+      },
+      {
+        "name": "Pending Sign-off",
+        "color": "#a9791f"
+      },
+      {
+        "name": "On Hold",
+        "color": "#8b6b1f"
+      },
+      {
+        "name": "Cancelled",
+        "color": "#b4552f"
+      }
+    ],
+    "projects": []
+  }
+}
