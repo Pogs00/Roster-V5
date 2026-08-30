@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-08-30T00:57:27.829Z",
+  "exportedAt": "2026-08-30T01:00:07.310Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1656,6 +1656,43 @@
         "color": "#b4552f"
       }
     ],
-    "projects": []
+    "projects": [
+      {
+        "projectNumber": "PRJ-0001",
+        "store": "Smith and Wollensky",
+        "branch": "BGC",
+        "description": "Aloha TS Implementation",
+        "poc": "Jezreel Abesamis",
+        "hwResource": "Nuelle Palo",
+        "implCompletionDate": "",
+        "turnoverDate": "2025-09-22",
+        "supportAcceptanceDate": "2026-04-22",
+        "status": "Completed",
+        "quarter": "4th",
+        "year": 2025,
+        "existingClient": "No",
+        "signOff": "Yes",
+        "withDocuments": "Yes",
+        "id": "p3_0vel4"
+      },
+      {
+        "projectNumber": "PRJ-0002",
+        "store": "Yi Fang",
+        "branch": "Robinsons Manila",
+        "description": "Aloha QS Implementation",
+        "poc": "Jezreel Abesamis",
+        "hwResource": "Guiller Genove",
+        "implCompletionDate": "",
+        "turnoverDate": "2025-10-29",
+        "supportAcceptanceDate": "2026-04-22",
+        "status": "Completed",
+        "quarter": "1st",
+        "year": 2026,
+        "existingClient": "Yes",
+        "signOff": "Yes",
+        "withDocuments": "No",
+        "id": "p4_qmidn"
+      }
+    ]
   }
 }
