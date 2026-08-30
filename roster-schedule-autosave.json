@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-08-30T01:07:27.832Z",
+  "exportedAt": "2026-08-30T01:12:27.837Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1764,6 +1764,60 @@
         "signOff": "No",
         "withDocuments": "No",
         "id": "p8_l5qgt"
+      },
+      {
+        "projectNumber": "PRJ-0007",
+        "store": "Wolfgang",
+        "branch": "Araneta",
+        "description": "Aloha TS v19 Implementation | No need for docs for existing client",
+        "poc": "Jezreel Abesamis",
+        "hwResource": "Nuelle Palo",
+        "implCompletionDate": "",
+        "turnoverDate": "2025-10-29",
+        "supportAcceptanceDate": "2026-04-22",
+        "status": "Completed",
+        "quarter": "4th",
+        "year": 2025,
+        "existingClient": "Yes",
+        "signOff": "Yes",
+        "withDocuments": "No",
+        "id": "p9_cqold"
+      },
+      {
+        "projectNumber": "PRJ-0008",
+        "store": "Happy Lemon",
+        "branch": "Gateway",
+        "description": "Aloha QS Implementation | No need for docs for existing client",
+        "poc": "Jezreel Abesamis",
+        "hwResource": "Guiller Genove",
+        "implCompletionDate": "",
+        "turnoverDate": "",
+        "supportAcceptanceDate": "2026-04-22",
+        "status": "Completed",
+        "quarter": "4th",
+        "year": 2025,
+        "existingClient": "Yes",
+        "signOff": "Yes",
+        "withDocuments": "No",
+        "id": "p10_mrpqj"
+      },
+      {
+        "projectNumber": "PRJ-0009",
+        "store": "Yi Fang",
+        "branch": "MOA",
+        "description": "Aloha QS Implementation | No need for docs for existing client",
+        "poc": "Jezreel Abesamis",
+        "hwResource": "Guiller Genove",
+        "implCompletionDate": "",
+        "turnoverDate": "",
+        "supportAcceptanceDate": "2026-04-22",
+        "status": "Completed",
+        "quarter": "4th",
+        "year": 2025,
+        "existingClient": "Yes",
+        "signOff": "Yes",
+        "withDocuments": "No",
+        "id": "p11_u6dt8"
       }
     ]
   }
