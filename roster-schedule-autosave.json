@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-08-30T01:02:27.829Z",
+  "exportedAt": "2026-08-30T01:07:27.832Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1694,12 +1694,31 @@
         "withDocuments": "No"
       },
       {
+        "id": "p5_5o6pq",
         "projectNumber": "PRJ-0003",
         "store": "Yi Fang",
         "branch": "Alabang Town Center",
         "description": "Aloha QS Implementation | No need for docs for existing client",
         "poc": "Jezreel Abesamis",
         "hwResource": "Guiller Genove",
+        "implCompletionDate": "",
+        "turnoverDate": "2025-10-14",
+        "supportAcceptanceDate": "2026-04-22",
+        "status": "Completed",
+        "quarter": "4th",
+        "year": 2025,
+        "existingClient": "Yes",
+        "signOff": "Yes",
+        "withDocuments": "No"
+      },
+      {
+        "id": "p6_bpxuq",
+        "projectNumber": "PRJ-0004",
+        "store": "The Fat Seed",
+        "branch": "Molito",
+        "description": "Aloha TS V19 Migration | No need for docs for existing client",
+        "poc": "Jezreel Abesamis",
+        "hwResource": "Nuelle Palo",
         "implCompletionDate": "",
         "turnoverDate": "2025-10-29",
         "supportAcceptanceDate": "2026-04-22",
@@ -1708,8 +1727,43 @@
         "year": 2025,
         "existingClient": "Yes",
         "signOff": "Yes",
+        "withDocuments": "No"
+      },
+      {
+        "id": "p7_rl5y1",
+        "projectNumber": "PRJ-0005",
+        "store": "The Fat Seed",
+        "branch": "UP Town Center",
+        "description": "Aloha TS V19 Migration | No need for docs for existing client",
+        "poc": "Jezreel Abesamis",
+        "hwResource": "Nuelle Palo",
+        "implCompletionDate": "",
+        "turnoverDate": "",
+        "supportAcceptanceDate": "2026-04-22",
+        "status": "Completed",
+        "quarter": "4th",
+        "year": 2025,
+        "existingClient": "Yes",
+        "signOff": "Yes",
+        "withDocuments": "No"
+      },
+      {
+        "projectNumber": "PRJ-0006",
+        "store": "Popeyes",
+        "branch": "NAIA",
+        "description": "Aloha QS V19 Implementation + menuX | No need for docs for existing client",
+        "poc": "Jaymark Bagobe",
+        "hwResource": "Angelo Fresnillo",
+        "implCompletionDate": "",
+        "turnoverDate": "",
+        "supportAcceptanceDate": "",
+        "status": "Completed",
+        "quarter": "4th",
+        "year": 2025,
+        "existingClient": "Yes",
+        "signOff": "No",
         "withDocuments": "No",
-        "id": "p5_5o6pq"
+        "id": "p8_l5qgt"
       }
     ]
   }
