@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-08-30T01:27:27.829Z",
+  "exportedAt": "2026-08-30T01:32:27.829Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1658,10 +1658,11 @@
     ],
     "projects": [
       {
+        "id": "p3_0vel4",
         "projectNumber": "PRJ-0001",
         "store": "Smith and Wollensky",
         "branch": "BGC",
-        "description": "Aloha TS Implementation",
+        "description": "Aloha TS V19 Implementation",
         "poc": "Jezreel Abesamis",
         "hwResource": "Nuelle Palo",
         "implCompletionDate": "",
@@ -1672,8 +1673,7 @@
         "year": 2025,
         "existingClient": "No",
         "signOff": "Yes",
-        "withDocuments": "Yes",
-        "id": "p3_0vel4"
+        "withDocuments": "Yes"
       },
       {
         "id": "p4_qmidn",
@@ -1962,6 +1962,60 @@
         "signOff": "Yes",
         "withDocuments": "No",
         "id": "p19_nibx5"
+      },
+      {
+        "projectNumber": "PRJ-0018",
+        "store": "Tori Sanwa",
+        "branch": "Mitsukoshi",
+        "description": "Aloha QS V19 Implementation + menuX Tablet",
+        "poc": "Lawrence Fernandez",
+        "hwResource": "",
+        "implCompletionDate": "",
+        "turnoverDate": "",
+        "supportAcceptanceDate": "",
+        "status": "Completed",
+        "quarter": "1st",
+        "year": 2026,
+        "existingClient": "No",
+        "signOff": "No",
+        "withDocuments": "No",
+        "id": "p20_swcin"
+      },
+      {
+        "projectNumber": "PRJ-0019",
+        "store": "Dear Manok",
+        "branch": "Iligan",
+        "description": "Aloha QS V19 Implementation | No need docs for existing client",
+        "poc": "Jezreel Abesamis",
+        "hwResource": "",
+        "implCompletionDate": "2026-05-01",
+        "turnoverDate": "",
+        "supportAcceptanceDate": "",
+        "status": "Completed",
+        "quarter": "1st",
+        "year": 2026,
+        "existingClient": "Yes",
+        "signOff": "No",
+        "withDocuments": "No",
+        "id": "p21_ts2kk"
+      },
+      {
+        "id": "p22_8ztv2",
+        "projectNumber": "PRJ-0020",
+        "store": "Dear Manok",
+        "branch": "Limketkai",
+        "description": "Aloha QS V19 Implementation | No need docs for existing client",
+        "poc": "Jezreel Abesamis",
+        "hwResource": "",
+        "implCompletionDate": "2026-03-16",
+        "turnoverDate": "",
+        "supportAcceptanceDate": "",
+        "status": "Completed",
+        "quarter": "1st",
+        "year": 2026,
+        "existingClient": "Yes",
+        "signOff": "No",
+        "withDocuments": "No"
       }
     ]
   }
