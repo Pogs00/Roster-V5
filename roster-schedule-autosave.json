@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-08-30T01:41:25.063Z",
+  "exportedAt": "2026-08-30T01:45:50.180Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -2088,6 +2088,60 @@
         "existingClient": "Yes",
         "signOff": "No",
         "withDocuments": "No"
+      },
+      {
+        "id": "p3_mfptv",
+        "projectNumber": "PRJ-0025",
+        "store": "Wendys",
+        "branch": "Caltex Mega Station",
+        "description": "Aloha QS V19 Implementation + menuX SOK | No need docs for existing client",
+        "poc": "Lawrence Fernandez",
+        "hwResource": "Danilo Vergonia",
+        "implCompletionDate": "",
+        "turnoverDate": "",
+        "supportAcceptanceDate": "",
+        "status": "Pending Sign-off",
+        "quarter": "3rd",
+        "year": 2026,
+        "existingClient": "Yes",
+        "signOff": "No",
+        "withDocuments": "No"
+      },
+      {
+        "id": "p4_snnxg",
+        "projectNumber": "PRJ-0026",
+        "store": "Lets Eat",
+        "branch": "Rockwell Pasig",
+        "description": "Aloha QS V19 Implementation + menuX SOK",
+        "poc": "Lawrence Fernandez",
+        "hwResource": "",
+        "implCompletionDate": "",
+        "turnoverDate": "",
+        "supportAcceptanceDate": "",
+        "status": "In Progress",
+        "quarter": "3rd",
+        "year": 2026,
+        "existingClient": "No",
+        "signOff": "No",
+        "withDocuments": "No"
+      },
+      {
+        "projectNumber": "PRJ-0027",
+        "store": "Torikizoku",
+        "branch": "Serendra",
+        "description": "Aloha TS V19 Implementation + menuX Tablet and QR + Customize KDS",
+        "poc": "Lawrence Fernandez",
+        "hwResource": "",
+        "implCompletionDate": "",
+        "turnoverDate": "",
+        "supportAcceptanceDate": "",
+        "status": "In Progress",
+        "quarter": "3rd",
+        "year": 2026,
+        "existingClient": "No",
+        "signOff": "No",
+        "withDocuments": "No",
+        "id": "p5_lwaeg"
       }
     ]
   }
