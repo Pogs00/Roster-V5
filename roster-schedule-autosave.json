@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-08-30T01:22:27.830Z",
+  "exportedAt": "2026-08-30T01:27:27.829Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1680,7 +1680,7 @@
         "projectNumber": "PRJ-0002",
         "store": "Yi Fang",
         "branch": "Robinsons Manila",
-        "description": "Aloha QS Implementation | No need for docs for existing client",
+        "description": "Aloha QS Implementation | No need docs for existing client",
         "poc": "Jezreel Abesamis",
         "hwResource": "Guiller Genove",
         "implCompletionDate": "",
@@ -1698,7 +1698,7 @@
         "projectNumber": "PRJ-0003",
         "store": "Yi Fang",
         "branch": "Alabang Town Center",
-        "description": "Aloha QS Implementation | No need for docs for existing client",
+        "description": "Aloha QS Implementation | No need docs for existing client",
         "poc": "Jezreel Abesamis",
         "hwResource": "Guiller Genove",
         "implCompletionDate": "",
@@ -1716,7 +1716,7 @@
         "projectNumber": "PRJ-0004",
         "store": "The Fat Seed",
         "branch": "Molito",
-        "description": "Aloha TS V19 Migration | No need for docs for existing client",
+        "description": "Aloha TS V19 Migration | No need docs for existing client",
         "poc": "Jezreel Abesamis",
         "hwResource": "Nuelle Palo",
         "implCompletionDate": "",
@@ -1734,7 +1734,7 @@
         "projectNumber": "PRJ-0005",
         "store": "The Fat Seed",
         "branch": "UP Town Center",
-        "description": "Aloha TS V19 Migration | No need for docs for existing client",
+        "description": "Aloha TS V19 Migration | No need docs for existing client",
         "poc": "Jezreel Abesamis",
         "hwResource": "Nuelle Palo",
         "implCompletionDate": "",
@@ -1748,10 +1748,11 @@
         "withDocuments": "No"
       },
       {
+        "id": "p8_l5qgt",
         "projectNumber": "PRJ-0006",
         "store": "Popeyes",
         "branch": "NAIA",
-        "description": "Aloha QS V19 Implementation + menuX | No need for docs for existing client",
+        "description": "Aloha QS V19 Implementation + menuX | No need docs for existing client",
         "poc": "Jaymark Bagobe",
         "hwResource": "Angelo Fresnillo",
         "implCompletionDate": "",
@@ -1762,14 +1763,14 @@
         "year": 2025,
         "existingClient": "Yes",
         "signOff": "No",
-        "withDocuments": "No",
-        "id": "p8_l5qgt"
+        "withDocuments": "No"
       },
       {
+        "id": "p9_cqold",
         "projectNumber": "PRJ-0007",
         "store": "Wolfgang",
         "branch": "Araneta",
-        "description": "Aloha TS v19 Implementation | No need for docs for existing client",
+        "description": "Aloha TS v19 Implementation | No need docs for existing client",
         "poc": "Jezreel Abesamis",
         "hwResource": "Nuelle Palo",
         "implCompletionDate": "",
@@ -1780,14 +1781,14 @@
         "year": 2025,
         "existingClient": "Yes",
         "signOff": "Yes",
-        "withDocuments": "No",
-        "id": "p9_cqold"
+        "withDocuments": "No"
       },
       {
+        "id": "p10_mrpqj",
         "projectNumber": "PRJ-0008",
         "store": "Happy Lemon",
         "branch": "Gateway",
-        "description": "Aloha QS Implementation | No need for docs for existing client",
+        "description": "Aloha QS Implementation | No need docs for existing client",
         "poc": "Jezreel Abesamis",
         "hwResource": "Guiller Genove",
         "implCompletionDate": "",
@@ -1798,14 +1799,14 @@
         "year": 2025,
         "existingClient": "Yes",
         "signOff": "Yes",
-        "withDocuments": "No",
-        "id": "p10_mrpqj"
+        "withDocuments": "No"
       },
       {
+        "id": "p11_u6dt8",
         "projectNumber": "PRJ-0009",
         "store": "Yi Fang",
         "branch": "MOA",
-        "description": "Aloha QS Implementation | No need for docs for existing client",
+        "description": "Aloha QS Implementation | No need docs for existing client",
         "poc": "Jezreel Abesamis",
         "hwResource": "Guiller Genove",
         "implCompletionDate": "",
@@ -1816,14 +1817,14 @@
         "year": 2025,
         "existingClient": "Yes",
         "signOff": "Yes",
-        "withDocuments": "No",
-        "id": "p11_u6dt8"
+        "withDocuments": "No"
       },
       {
+        "id": "p12_0lj8x",
         "projectNumber": "PRJ-0010",
         "store": "Mitsuyado Seimen",
         "branch": "Jupiter",
-        "description": "Aloha TS V19 Implementation + menuX Tablet and QR | No need for docs for existing client",
+        "description": "Aloha TS V19 Implementation + menuX Tablet and QR | No need docs for existing client",
         "poc": "Jaymark Bagobe",
         "hwResource": "Danilo Vergonia",
         "implCompletionDate": "",
@@ -1834,14 +1835,14 @@
         "year": 2025,
         "existingClient": "Yes",
         "signOff": "Yes",
-        "withDocuments": "No",
-        "id": "p12_0lj8x"
+        "withDocuments": "No"
       },
       {
+        "id": "p13_yl3k5",
         "projectNumber": "PRJ-0011",
         "store": "Wolfgang",
         "branch": "SM Cebu",
-        "description": "Aloha TS v19 Implementation | No need for docs for existing client",
+        "description": "Aloha TS v19 Implementation | No need docs for existing client",
         "poc": "Jezreel Abesamis",
         "hwResource": "Nuelle Palo",
         "implCompletionDate": "",
@@ -1852,14 +1853,14 @@
         "year": 2026,
         "existingClient": "Yes",
         "signOff": "Yes",
-        "withDocuments": "No",
-        "id": "p13_yl3k5"
+        "withDocuments": "No"
       },
       {
+        "id": "p14_op5nl",
         "projectNumber": "PRJ-0012",
         "store": "Wolfgang",
         "branch": "Iloilo",
-        "description": "Aloha TS v19 Implementation | No need for docs for existing client",
+        "description": "Aloha TS v19 Implementation | No need docs for existing client",
         "poc": "Jezreel Abesamis",
         "hwResource": "Nuelle Palo",
         "implCompletionDate": "",
@@ -1870,8 +1871,7 @@
         "year": 2026,
         "existingClient": "Yes",
         "signOff": "Yes",
-        "withDocuments": "No",
-        "id": "p14_op5nl"
+        "withDocuments": "No"
       },
       {
         "id": "p15_jktqp",
@@ -1910,10 +1910,11 @@
         "id": "p16_g3g03"
       },
       {
+        "id": "p17_nniyc",
         "projectNumber": "PRJ-0015",
         "store": "Refinery",
         "branch": "Tomas Morato",
-        "description": "Aloha TS V19 Implementation | No need for docs for existing client",
+        "description": "Aloha TS V19 Implementation | No need docs for existing client",
         "poc": "Jezreel Abesamis",
         "hwResource": "",
         "implCompletionDate": "",
@@ -1924,8 +1925,7 @@
         "year": 2025,
         "existingClient": "No",
         "signOff": "No",
-        "withDocuments": "No",
-        "id": "p17_nniyc"
+        "withDocuments": "No"
       },
       {
         "projectNumber": "PRJ-0016",
@@ -1944,6 +1944,24 @@
         "signOff": "Yes",
         "withDocuments": "No",
         "id": "p18_1naz4"
+      },
+      {
+        "projectNumber": "PRJ-0017",
+        "store": "Karayama",
+        "branch": "SM Megamall",
+        "description": "Aloha TS V19 Implementation | No need docs for existing client",
+        "poc": "Jezreel Abesamis",
+        "hwResource": "",
+        "implCompletionDate": "",
+        "turnoverDate": "2026-03-19",
+        "supportAcceptanceDate": "2026-04-22",
+        "status": "Completed",
+        "quarter": "1st",
+        "year": 2026,
+        "existingClient": "Yes",
+        "signOff": "Yes",
+        "withDocuments": "No",
+        "id": "p19_nibx5"
       }
     ]
   }
