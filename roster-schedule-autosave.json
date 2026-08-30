@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-08-30T01:12:27.837Z",
+  "exportedAt": "2026-08-30T01:17:27.842Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1818,6 +1818,78 @@
         "signOff": "Yes",
         "withDocuments": "No",
         "id": "p11_u6dt8"
+      },
+      {
+        "projectNumber": "PRJ-0010",
+        "store": "Mitsuyado Seimen",
+        "branch": "Jupiter",
+        "description": "Aloha TS V19 Implementation + menuX Tablet and QR | No need for docs for existing client",
+        "poc": "Jaymark Bagobe",
+        "hwResource": "Danilo Vergonia",
+        "implCompletionDate": "",
+        "turnoverDate": "2026-03-11",
+        "supportAcceptanceDate": "",
+        "status": "Completed",
+        "quarter": "4th",
+        "year": 2025,
+        "existingClient": "Yes",
+        "signOff": "Yes",
+        "withDocuments": "No",
+        "id": "p12_0lj8x"
+      },
+      {
+        "projectNumber": "PRJ-0011",
+        "store": "Wolfgang",
+        "branch": "SM Cebu",
+        "description": "Aloha TS v19 Implementation | No need for docs for existing client",
+        "poc": "Jezreel Abesamis",
+        "hwResource": "Nuelle Palo",
+        "implCompletionDate": "",
+        "turnoverDate": "2026-03-26",
+        "supportAcceptanceDate": "2026-04-22",
+        "status": "Completed",
+        "quarter": "1st",
+        "year": 2026,
+        "existingClient": "Yes",
+        "signOff": "Yes",
+        "withDocuments": "No",
+        "id": "p13_yl3k5"
+      },
+      {
+        "projectNumber": "PRJ-0012",
+        "store": "Wolfgang",
+        "branch": "Iloilo",
+        "description": "Aloha TS v19 Implementation | No need for docs for existing client",
+        "poc": "Jezreel Abesamis",
+        "hwResource": "Nuelle Palo",
+        "implCompletionDate": "",
+        "turnoverDate": "2026-03-26",
+        "supportAcceptanceDate": "2026-04-22",
+        "status": "Completed",
+        "quarter": "1st",
+        "year": 2026,
+        "existingClient": "Yes",
+        "signOff": "Yes",
+        "withDocuments": "No",
+        "id": "p14_op5nl"
+      },
+      {
+        "projectNumber": "PRJ-0013",
+        "store": "Ahon Coffee",
+        "branch": "Arca South",
+        "description": "Aloha QS Implementation",
+        "poc": "Lawrence Fernandez",
+        "hwResource": "",
+        "implCompletionDate": "",
+        "turnoverDate": "2026-05-11",
+        "supportAcceptanceDate": "",
+        "status": "Completed",
+        "quarter": "1st",
+        "year": 2026,
+        "existingClient": "No",
+        "signOff": "Yes",
+        "withDocuments": "No",
+        "id": "p15_jktqp"
       }
     ]
   }
