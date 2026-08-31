@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-08-31T23:50:25.015Z",
+  "exportedAt": "2026-08-31T23:55:25.019Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -977,9 +977,9 @@
       "comment": "CTO"
     },
     "m_00tz16bv|2026-09-01": {
-      "tag": "office",
+      "tag": "at_7v4aujf5",
       "tasks": [],
-      "comment": ""
+      "comment": "CTO"
     },
     "m_jig7aydp|2026-09-02": {
       "tag": "at_tljjo94f",
