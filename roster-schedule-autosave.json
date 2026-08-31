@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-08-31T23:55:25.019Z",
+  "exportedAt": "2026-09-01T00:00:25.028Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -555,14 +555,14 @@
         {
           "id": "t_zp7rtjf6",
           "date": "2026-08-27",
-          "endDate": "2026-08-28",
+          "endDate": "2026-09-01",
           "text": "Let's Eat Aloha and Plugin testing",
           "status": "in-progress"
         },
         {
           "id": "t_p76a22k2",
           "date": "2026-08-27",
-          "endDate": "2026-08-28",
+          "endDate": "2026-09-01",
           "text": "Let's SOK and Digital Menu Board setup",
           "status": "not-started"
         }
@@ -1017,8 +1017,16 @@
       "comment": ""
     },
     "m_lnyo2eed|2026-09-03": {
-      "tag": "office",
-      "tasks": [],
+      "tag": "at_ncveij9q",
+      "tasks": [
+        {
+          "id": "t_8fbhkayg",
+          "date": "2026-09-03",
+          "endDate": "",
+          "text": "BK Valenzuela JPOS Migration",
+          "status": "not-started"
+        }
+      ],
       "comment": ""
     },
     "m_00tz16bv|2026-09-03": {
