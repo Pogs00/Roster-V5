@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-01T01:05:01.346Z",
+  "exportedAt": "2026-09-01T01:10:25.527Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -959,7 +959,7 @@
           "date": "2026-09-01",
           "endDate": "",
           "text": "Retail Meeting @9am",
-          "status": "not-started"
+          "status": "in-progress"
         },
         {
           "id": "t_p2uelf3b",
