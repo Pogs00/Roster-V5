@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-01T07:35:00.132Z",
+  "exportedAt": "2026-09-01T07:40:00.128Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -966,7 +966,7 @@
           "date": "2026-09-01",
           "endDate": "",
           "text": "Ops Meeting @2pm",
-          "status": "not-started"
+          "status": "completed"
         },
         {
           "id": "t_w8akvaac",
