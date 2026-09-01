@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-01T02:40:01.236Z",
+  "exportedAt": "2026-09-01T02:45:01.040Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -844,7 +844,7 @@
           "status": "completed"
         }
       ],
-      "comment": ""
+      "comment": "Assist API meeting moved on September 2, 2026"
     },
     "m_lnyo2eed|2026-12-25": {
       "tag": "at_wcy669ra",
@@ -1010,6 +1010,13 @@
           "date": "2026-09-02",
           "endDate": "",
           "text": "menuX® Training @10am",
+          "status": "not-started"
+        },
+        {
+          "id": "t_1ijvloaq",
+          "date": "2026-09-02",
+          "endDate": "",
+          "text": "Torikizoku Assist API meeting @9am",
           "status": "not-started"
         }
       ],
