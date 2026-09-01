@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-01T05:15:00.557Z",
+  "exportedAt": "2026-09-01T05:20:00.547Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1449,6 +1449,10 @@
           {
             "date": "8/27/2026, 5:18:04 PM",
             "text": "Per confirmation with M' Yeng, waiting for testing result c/o Jay"
+          },
+          {
+            "date": "9/1/2026, 1:19:12 PM",
+            "text": "Sent an email to Dev team, for them to test the menuX v2 first before releasing to aloha team for validation"
           }
         ]
       },
@@ -1476,6 +1480,10 @@
           {
             "date": "8/27/2026, 5:18:33 PM",
             "text": "Per confirmation with M' Yeng, waiting for testing result c/o Jay"
+          },
+          {
+            "date": "9/1/2026, 1:19:26 PM",
+            "text": "Sent an email to Dev team, for them to test the menuX v2 first before releasing to aloha team for validation"
           }
         ]
       },
@@ -1515,6 +1523,10 @@
           {
             "date": "8/28/2026, 1:41:26 PM",
             "text": "History > Should display the time when it was ordered not the bumping time History > Should be auto display in history screen. No need to update Restore > Tapping the “Restore” button, inserts the data into the first column of the standard order screen - based on the order time Additional > Change the font size same with RST Additional > Should display every additional order in new column not retain in existing column UI > Make the horizontal line properly align Settings > should have modal for selecting manager and setting pin"
+          },
+          {
+            "date": "9/1/2026, 1:19:42 PM",
+            "text": "For testing today"
           }
         ]
       },
