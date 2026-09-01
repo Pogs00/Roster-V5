@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-01T00:00:25.028Z",
+  "exportedAt": "2026-09-01T00:05:03.315Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -358,7 +358,7 @@
         {
           "id": "t_tfgxsbpy",
           "date": "2026-08-17",
-          "endDate": "2026-08-28",
+          "endDate": "2026-09-04",
           "text": "MenuX V2 Testing",
           "status": "ts_6jxo1r4g"
         },
@@ -372,7 +372,7 @@
         {
           "id": "t_r1nniyd1",
           "date": "2026-08-17",
-          "endDate": "2026-08-26",
+          "endDate": "2026-09-04",
           "text": "Aloha Report Utility",
           "status": "ts_6jxo1r4g"
         }
@@ -967,6 +967,13 @@
           "endDate": "",
           "text": "Ops Meeting @2pm",
           "status": "not-started"
+        },
+        {
+          "id": "t_w8akvaac",
+          "date": "2026-09-01",
+          "endDate": "",
+          "text": "NCR Cadence Meeting",
+          "status": "not-started"
         }
       ],
       "comment": ""
@@ -997,18 +1004,41 @@
           "endDate": "2026-09-04",
           "text": "Wendy's manual creation",
           "status": "not-started"
+        },
+        {
+          "id": "t_mqyaq43m",
+          "date": "2026-09-02",
+          "endDate": "",
+          "text": "menuX® Training @10am",
+          "status": "not-started"
         }
       ],
       "comment": ""
     },
     "m_lnyo2eed|2026-09-02": {
       "tag": "office",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "t_tdcvz2ef",
+          "date": "2026-09-02",
+          "endDate": "",
+          "text": "menuX training @10am",
+          "status": "not-started"
+        }
+      ],
       "comment": ""
     },
     "m_00tz16bv|2026-09-02": {
       "tag": "office",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "t_vbchg1cv",
+          "date": "2026-09-02",
+          "endDate": "",
+          "text": "menuX Training @10am",
+          "status": "not-started"
+        }
+      ],
       "comment": ""
     },
     "m_jig7aydp|2026-09-03": {
@@ -1040,9 +1070,9 @@
       "comment": ""
     },
     "m_lnyo2eed|2026-09-04": {
-      "tag": "at_gfigh1b7",
+      "tag": "at_7v4aujf5",
       "tasks": [],
-      "comment": ""
+      "comment": "CTS"
     },
     "m_00tz16bv|2026-09-04": {
       "tag": "at_gfigh1b7",
