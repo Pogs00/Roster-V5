@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-01T05:20:00.547Z",
+  "exportedAt": "2026-09-01T05:25:24.722Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1558,6 +1558,10 @@
           {
             "date": "8/28/2026, 12:33:35 PM",
             "text": "Based on Kent update, need to have a final UI, sent an email to Let's owner and he approved the initial design. Forward it back to dev team for configuration"
+          },
+          {
+            "date": "9/1/2026, 1:20:00 PM",
+            "text": "Follow up with Kent today"
           }
         ]
       },
@@ -1609,6 +1613,10 @@
           {
             "date": "8/26/2026, 2:27:09 PM",
             "text": "No issue today so far confirmed by M' Quennie"
+          },
+          {
+            "date": "9/1/2026, 1:20:30 PM",
+            "text": "Still encounter restart during the weekend, for reinstallation tomorrow server and POS"
           }
         ]
       },
@@ -1616,7 +1624,7 @@
         "store": "Tori Sanwa Mitsukoshi",
         "description": "Regular discount default presentation format for percentage not working",
         "pointPerson": "Lawrence",
-        "status": "For Monitoring",
+        "status": "Completed",
         "startDate": "2026-08-20",
         "endDate": "2026-08-24",
         "reviseEndDate": "",
@@ -1636,6 +1644,10 @@
           {
             "date": "8/26/2026, 2:27:22 PM",
             "text": "No issue today so far confirmed by M' Quennie"
+          },
+          {
+            "date": "9/1/2026, 1:20:48 PM",
+            "text": "Fixed"
           }
         ]
       },
@@ -1651,6 +1663,10 @@
           {
             "date": "8/28/2026, 1:49:30 PM",
             "text": "Still not started by the dev team"
+          },
+          {
+            "date": "9/1/2026, 1:21:14 PM",
+            "text": "Still not started"
           }
         ]
       },
@@ -1670,6 +1686,10 @@
           {
             "date": "8/28/2026, 1:49:01 PM",
             "text": "Waiting for S' Harmon fix for NACD"
+          },
+          {
+            "date": "9/1/2026, 1:21:35 PM",
+            "text": "For update and testing today c/o S' Harmon"
           }
         ]
       },
@@ -1685,6 +1705,10 @@
           {
             "date": "8/27/2026, 5:16:49 PM",
             "text": "Not yet available"
+          },
+          {
+            "date": "9/1/2026, 1:22:03 PM",
+            "text": "Still not available yet"
           }
         ]
       }
