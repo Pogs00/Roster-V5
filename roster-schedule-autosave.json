@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-01T00:05:03.315Z",
+  "exportedAt": "2026-09-01T00:10:03.422Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -385,7 +385,7 @@
         {
           "id": "t_cmabol8f",
           "date": "2026-08-18",
-          "endDate": "2026-08-28",
+          "endDate": "2026-09-04",
           "text": "Aloha Training",
           "status": "in-progress"
         },
@@ -689,7 +689,7 @@
         {
           "id": "t_fpj9bqmk",
           "date": "2026-08-26",
-          "endDate": "2026-08-28",
+          "endDate": "2026-09-04",
           "text": "Aloha v12 Plugin Testing",
           "status": "ts_6jxo1r4g"
         }
