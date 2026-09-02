@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-02T01:06:26.065Z",
+  "exportedAt": "2026-09-02T01:10:39.342Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1018,6 +1018,13 @@
           "endDate": "",
           "text": "Torikizoku Assist API meeting @9am",
           "status": "not-started"
+        },
+        {
+          "id": "t_m6k5pts3",
+          "date": "2026-09-02",
+          "endDate": "",
+          "text": "Aloha alignment meeting @4pm",
+          "status": "not-started"
         }
       ],
       "comment": ""
@@ -1038,6 +1045,13 @@
           "endDate": "",
           "text": "Tori Sanwa Server and POS reinstallation",
           "status": "in-progress"
+        },
+        {
+          "id": "t_iqsuqm5v",
+          "date": "2026-09-02",
+          "endDate": "",
+          "text": "Aloha alignment meeting @4pm",
+          "status": "not-started"
         }
       ],
       "comment": ""
@@ -1050,6 +1064,13 @@
           "date": "2026-09-02",
           "endDate": "",
           "text": "menuX Training @10am",
+          "status": "not-started"
+        },
+        {
+          "id": "t_phu741jb",
+          "date": "2026-09-02",
+          "endDate": "",
+          "text": "Aloha alignment meeting @4pm",
           "status": "not-started"
         }
       ],
