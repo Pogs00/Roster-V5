@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-02T00:10:39.495Z",
+  "exportedAt": "2026-09-02T00:15:39.682Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -973,7 +973,7 @@
           "date": "2026-09-01",
           "endDate": "",
           "text": "NCR Cadence Meeting",
-          "status": "not-started"
+          "status": "completed"
         }
       ],
       "comment": ""
@@ -1023,7 +1023,7 @@
       "comment": ""
     },
     "m_lnyo2eed|2026-09-02": {
-      "tag": "office",
+      "tag": "at_ncveij9q",
       "tasks": [
         {
           "id": "t_tdcvz2ef",
@@ -1031,6 +1031,13 @@
           "endDate": "",
           "text": "menuX training @10am",
           "status": "not-started"
+        },
+        {
+          "id": "t_gl715vct",
+          "date": "2026-09-02",
+          "endDate": "",
+          "text": "Tori Sanwa Server and POS reinstallation",
+          "status": "in-progress"
         }
       ],
       "comment": ""
@@ -1054,7 +1061,7 @@
       "comment": ""
     },
     "m_lnyo2eed|2026-09-03": {
-      "tag": "at_ncveij9q",
+      "tag": "at_0u69b8jt",
       "tasks": [
         {
           "id": "t_8fbhkayg",
@@ -1073,7 +1080,15 @@
     },
     "m_jig7aydp|2026-09-04": {
       "tag": "office",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "t_p3752ac5",
+          "date": "2026-09-04",
+          "endDate": "",
+          "text": "Kajiken Demo",
+          "status": "not-started"
+        }
+      ],
       "comment": ""
     },
     "m_lnyo2eed|2026-09-04": {
