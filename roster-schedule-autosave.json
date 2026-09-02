@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-02T23:46:26.064Z",
+  "exportedAt": "2026-09-02T23:51:22.293Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -996,35 +996,35 @@
           "date": "2026-09-02",
           "endDate": "",
           "text": "Let's Alignment Meeting @1pm",
-          "status": "not-started"
+          "status": "completed"
         },
         {
           "id": "t_r3qiiv7d",
           "date": "2026-09-02",
           "endDate": "2026-09-04",
           "text": "Wendy's manual creation",
-          "status": "not-started"
+          "status": "ts_6jxo1r4g"
         },
         {
           "id": "t_mqyaq43m",
           "date": "2026-09-02",
           "endDate": "",
           "text": "menuX® Training @10am",
-          "status": "not-started"
+          "status": "ts_fnbk482o"
         },
         {
           "id": "t_1ijvloaq",
           "date": "2026-09-02",
           "endDate": "",
           "text": "Torikizoku Assist API meeting @9am",
-          "status": "not-started"
+          "status": "completed"
         },
         {
           "id": "t_m6k5pts3",
           "date": "2026-09-02",
           "endDate": "",
           "text": "Aloha alignment meeting @4pm",
-          "status": "not-started"
+          "status": "completed"
         }
       ],
       "comment": ""
@@ -1037,21 +1037,14 @@
           "date": "2026-09-02",
           "endDate": "",
           "text": "menuX training @10am",
-          "status": "not-started"
+          "status": "ts_fnbk482o"
         },
         {
           "id": "t_gl715vct",
           "date": "2026-09-02",
           "endDate": "",
           "text": "Tori Sanwa Server and POS reinstallation",
-          "status": "in-progress"
-        },
-        {
-          "id": "t_iqsuqm5v",
-          "date": "2026-09-02",
-          "endDate": "",
-          "text": "Aloha alignment meeting @4pm",
-          "status": "not-started"
+          "status": "completed"
         }
       ],
       "comment": ""
@@ -1064,25 +1057,33 @@
           "date": "2026-09-02",
           "endDate": "",
           "text": "menuX Training @10am",
-          "status": "not-started"
+          "status": "completed"
         },
         {
           "id": "t_phu741jb",
           "date": "2026-09-02",
           "endDate": "",
           "text": "Aloha alignment meeting @4pm",
-          "status": "not-started"
+          "status": "completed"
         }
       ],
       "comment": ""
     },
     "m_jig7aydp|2026-09-03": {
       "tag": "office",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "t_yx5tz7a4",
+          "date": "2026-09-03",
+          "endDate": "",
+          "text": "Kajiken Demo @10am",
+          "status": "not-started"
+        }
+      ],
       "comment": ""
     },
     "m_lnyo2eed|2026-09-03": {
-      "tag": "at_0u69b8jt",
+      "tag": "at_7v4aujf5",
       "tasks": [
         {
           "id": "t_8fbhkayg",
@@ -1092,7 +1093,7 @@
           "status": "not-started"
         }
       ],
-      "comment": ""
+      "comment": "CTO - JPOS for CTS tomorrow"
     },
     "m_00tz16bv|2026-09-03": {
       "tag": "office",
