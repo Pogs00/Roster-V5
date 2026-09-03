@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-03T04:19:03.767Z",
+  "exportedAt": "2026-09-03T04:21:21.222Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1077,7 +1077,14 @@
           "date": "2026-09-03",
           "endDate": "",
           "text": "Kajiken Demo @10am",
-          "status": "not-started"
+          "status": "completed"
+        },
+        {
+          "id": "t_a11dwirp",
+          "date": "2026-09-03",
+          "endDate": "",
+          "text": "Dev project discussion @8:30am",
+          "status": "completed"
         }
       ],
       "comment": ""
