@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-03T09:26:20.348Z",
+  "exportedAt": "2026-09-03T09:31:20.318Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1100,7 +1100,7 @@
           "status": "not-started"
         }
       ],
-      "comment": "CTO - JPOS for CTS tomorrow"
+      "comment": "CTO"
     },
     "m_00tz16bv|2026-09-03": {
       "tag": "office",
@@ -1126,9 +1126,9 @@
       "comment": "CTS"
     },
     "m_00tz16bv|2026-09-04": {
-      "tag": "office",
+      "tag": "at_7v4aujf5",
       "tasks": [],
-      "comment": ""
+      "comment": "CTO - Plan Leave"
     },
     "m_jig7aydp|2026-09-07": {
       "tag": "office",
@@ -1381,14 +1381,14 @@
       "comment": ""
     },
     "m_00tz16bv|2026-09-29": {
-      "tag": "office",
+      "tag": "at_7v4aujf5",
       "tasks": [],
-      "comment": ""
+      "comment": "CTO - Plan Leave"
     },
     "m_00tz16bv|2026-09-30": {
-      "tag": "office",
+      "tag": "at_7v4aujf5",
       "tasks": [],
-      "comment": ""
+      "comment": "CTO - Plan Leave"
     },
     "m_lnyo2eed|2026-09-30": {
       "tag": "office",
@@ -1412,6 +1412,31 @@
         }
       ],
       "comment": ""
+    },
+    "m_00tz16bv|2026-11-17": {
+      "tag": "at_7v4aujf5",
+      "tasks": [],
+      "comment": "CTO - Plan Leave"
+    },
+    "m_00tz16bv|2026-11-18": {
+      "tag": "at_7v4aujf5",
+      "tasks": [],
+      "comment": "CTO - Plan Leave"
+    },
+    "m_00tz16bv|2026-11-19": {
+      "tag": "at_7v4aujf5",
+      "tasks": [],
+      "comment": "CTO - Plan Leave"
+    },
+    "m_00tz16bv|2026-11-20": {
+      "tag": "at_7v4aujf5",
+      "tasks": [],
+      "comment": "CTO - Plan Leave"
+    },
+    "m_00tz16bv|2026-12-02": {
+      "tag": "at_7v4aujf5",
+      "tasks": [],
+      "comment": "CTO - Plan Leave"
     }
   },
   "projectMonitoring": {
