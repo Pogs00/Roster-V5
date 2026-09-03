@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-03T09:31:20.318Z",
+  "exportedAt": "2026-09-03T09:36:20.297Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -555,19 +555,19 @@
         {
           "id": "t_zp7rtjf6",
           "date": "2026-08-27",
-          "endDate": "2026-09-01",
+          "endDate": "2026-09-04",
           "text": "Let's Eat Aloha and Plugin testing",
           "status": "in-progress"
         },
         {
           "id": "t_p76a22k2",
           "date": "2026-08-27",
-          "endDate": "2026-09-01",
+          "endDate": "2026-09-04",
           "text": "Let's SOK and Digital Menu Board setup",
           "status": "not-started"
         }
       ],
-      "comment": "8/27 - SOK and Digital Menu Board not yet installed c/o Dev | 8/28 - S' Harmon ongoing update for NACD, Kent waiting for M' Yeng advise for SOK"
+      "comment": "09/03 - Plugin, SOK and Digital Menu Board still not done c/o Dev"
     },
     "m_lnyo2eed|2026-08-25": {
       "tag": "office",
