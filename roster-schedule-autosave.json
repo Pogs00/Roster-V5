@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-04T01:00:54.612Z",
+  "exportedAt": "2026-09-04T01:05:50.292Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1114,7 +1114,7 @@
           "id": "t_p3752ac5",
           "date": "2026-09-04",
           "endDate": "",
-          "text": "Kajiken Demo",
+          "text": "Torikizoku Full Cycle Testing @4pm",
           "status": "not-started"
         }
       ],
