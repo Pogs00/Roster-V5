@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-04T01:35:50.055Z",
+  "exportedAt": "2026-09-04T01:40:49.999Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1759,6 +1759,10 @@
           {
             "date": "9/1/2026, 1:21:35 PM",
             "text": "For update and testing today c/o S' Harmon"
+          },
+          {
+            "date": "9/4/2026, 9:40:20 AM",
+            "text": "S' Harmon still checking the NACD"
           }
         ]
       },
@@ -1778,6 +1782,10 @@
           {
             "date": "9/1/2026, 1:22:03 PM",
             "text": "Still not available yet"
+          },
+          {
+            "date": "9/4/2026, 9:40:37 AM",
+            "text": "Follow up schedule installation with M' Yeng, no feedback yet"
           }
         ]
       }
