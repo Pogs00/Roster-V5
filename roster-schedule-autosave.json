@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-04T02:45:49.803Z",
+  "exportedAt": "2026-09-04T02:50:49.787Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1771,7 +1771,7 @@
         "store": "New Store Standard",
         "description": "Aloha Standardization - Standard Plugin Testing",
         "pointPerson": "Lawrence",
-        "status": "In Progress",
+        "status": "Completed",
         "startDate": "2026-08-27",
         "endDate": "2026-09-04",
         "reviseEndDate": "",
