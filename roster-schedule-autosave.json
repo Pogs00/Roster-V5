@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-04T01:40:49.999Z",
+  "exportedAt": "2026-09-04T01:45:50.002Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1501,7 +1501,7 @@
         "status": "Delayed",
         "startDate": "2026-08-03",
         "endDate": "2026-08-19",
-        "reviseEndDate": "2026-08-28",
+        "reviseEndDate": "2026-09-09",
         "remarks": [
           {
             "date": "8/18/2026, 6:09:28 PM",
@@ -1522,6 +1522,10 @@
           {
             "date": "9/1/2026, 1:19:12 PM",
             "text": "Sent an email to Dev team, for them to test the menuX v2 first before releasing to aloha team for validation"
+          },
+          {
+            "date": "9/4/2026, 9:43:36 AM",
+            "text": "Old revise date 08/28/2026"
           }
         ]
       },
@@ -1532,7 +1536,7 @@
         "status": "Delayed",
         "startDate": "2026-08-17",
         "endDate": "2026-08-21",
-        "reviseEndDate": "2026-08-26",
+        "reviseEndDate": "2026-09-09",
         "remarks": [
           {
             "date": "8/18/2026, 6:10:59 PM",
@@ -1553,6 +1557,10 @@
           {
             "date": "9/1/2026, 1:19:26 PM",
             "text": "Sent an email to Dev team, for them to test the menuX v2 first before releasing to aloha team for validation"
+          },
+          {
+            "date": "9/4/2026, 9:43:48 AM",
+            "text": "Old revise date 08/26/2026"
           }
         ]
       },
@@ -1596,6 +1604,10 @@
           {
             "date": "9/1/2026, 1:19:42 PM",
             "text": "For testing today"
+          },
+          {
+            "date": "9/4/2026, 9:45:00 AM",
+            "text": "Full cycle testing today"
           }
         ]
       },
@@ -1603,10 +1615,10 @@
         "store": "Let's Eat Rockwell Pasig",
         "description": "SOK Development",
         "pointPerson": "Kent",
-        "status": "In Progress",
+        "status": "Delayed",
         "startDate": "2026-08-19",
         "endDate": "2026-08-27",
-        "reviseEndDate": "2026-09-02",
+        "reviseEndDate": "2026-09-09",
         "remarks": [
           {
             "date": "8/18/2026, 6:12:03 PM",
@@ -1631,6 +1643,14 @@
           {
             "date": "9/1/2026, 1:20:00 PM",
             "text": "Follow up with Kent today"
+          },
+          {
+            "date": "9/4/2026, 9:41:18 AM",
+            "text": "As per Kent need to coordinate with Von."
+          },
+          {
+            "date": "9/4/2026, 9:41:55 AM",
+            "text": "Old revise date 09/02/2026"
           }
         ]
       },
@@ -1686,6 +1706,10 @@
           {
             "date": "9/1/2026, 1:20:30 PM",
             "text": "Still encounter restart during the weekend, for reinstallation tomorrow server and POS"
+          },
+          {
+            "date": "9/4/2026, 9:42:44 AM",
+            "text": "Server reinstallation failed, for reschedule again"
           }
         ]
       },
@@ -1724,10 +1748,10 @@
         "store": "Let's Eat Rockwell Pasig",
         "description": "Digital Menu Board Installation",
         "pointPerson": "Kent",
-        "status": "Not Started",
+        "status": "Delayed",
         "startDate": "2026-08-27",
         "endDate": "2026-09-01",
-        "reviseEndDate": "",
+        "reviseEndDate": "2026-09-09",
         "remarks": [
           {
             "date": "8/28/2026, 1:49:30 PM",
@@ -1736,6 +1760,10 @@
           {
             "date": "9/1/2026, 1:21:14 PM",
             "text": "Still not started"
+          },
+          {
+            "date": "9/4/2026, 9:40:57 AM",
+            "text": "Follow up schedule installation with M' Yeng, no feedback yet"
           }
         ]
       },
@@ -1782,10 +1810,6 @@
           {
             "date": "9/1/2026, 1:22:03 PM",
             "text": "Still not available yet"
-          },
-          {
-            "date": "9/4/2026, 9:40:37 AM",
-            "text": "Follow up schedule installation with M' Yeng, no feedback yet"
           }
         ]
       }
