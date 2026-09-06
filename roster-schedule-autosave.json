@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-06T23:36:18.185Z",
+  "exportedAt": "2026-09-06T23:41:39.185Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1097,7 +1097,7 @@
           "date": "2026-09-03",
           "endDate": "",
           "text": "BK Valenzuela JPOS Migration",
-          "status": "not-started"
+          "status": "completed"
         }
       ],
       "comment": "CTO"
@@ -1115,7 +1115,7 @@
           "date": "2026-09-04",
           "endDate": "",
           "text": "Torikizoku Full Cycle Testing @4pm",
-          "status": "not-started"
+          "status": "completed"
         }
       ],
       "comment": ""
@@ -1132,13 +1132,35 @@
     },
     "m_jig7aydp|2026-09-07": {
       "tag": "office",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "t_vitzfh91",
+          "date": "2026-09-07",
+          "endDate": "",
+          "text": "Retail Weekly Meeting @9am",
+          "status": "not-started"
+        },
+        {
+          "id": "t_n8klxpnr",
+          "date": "2026-09-07",
+          "endDate": "",
+          "text": "Aloha QS demo @4pm",
+          "status": "not-started"
+        },
+        {
+          "id": "t_pgnh2oj5",
+          "date": "2026-09-07",
+          "endDate": "",
+          "text": "ISP ",
+          "status": "not-started"
+        }
+      ],
       "comment": ""
     },
     "m_lnyo2eed|2026-09-07": {
-      "tag": "office",
+      "tag": "at_7v4aujf5",
       "tasks": [],
-      "comment": ""
+      "comment": "CTO"
     },
     "m_00tz16bv|2026-09-07": {
       "tag": "at_7v4aujf5",
