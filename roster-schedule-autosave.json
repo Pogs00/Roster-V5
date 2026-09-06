@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-06T23:41:39.185Z",
+  "exportedAt": "2026-09-06T23:46:39.201Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -50,7 +50,7 @@
     {
       "id": "at_0u69b8jt",
       "label": "Official Business",
-      "color": "#0891B2"
+      "color": "#4dc2e0"
     },
     {
       "id": "at_tljjo94f",
@@ -60,7 +60,7 @@
     {
       "id": "at_ncveij9q",
       "label": "OB/Office",
-      "color": "#65A30D"
+      "color": "#93f40b"
     },
     {
       "id": "at_jida8xir",
@@ -1150,8 +1150,8 @@
         {
           "id": "t_pgnh2oj5",
           "date": "2026-09-07",
-          "endDate": "",
-          "text": "ISP ",
+          "endDate": "2026-09-09",
+          "text": "ISP training @3pm",
           "status": "not-started"
         }
       ],
@@ -1459,6 +1459,19 @@
       "tag": "at_7v4aujf5",
       "tasks": [],
       "comment": "CTO - Plan Leave"
+    },
+    "m_00tz16bv|2026-09-05": {
+      "tag": "at_3yzk9gc2",
+      "tasks": [
+        {
+          "id": "t_92sn25xb",
+          "date": "2026-09-05",
+          "endDate": "",
+          "text": "S1 Duty",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
     }
   },
   "projectMonitoring": {
