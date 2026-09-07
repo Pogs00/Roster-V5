@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-07T00:01:33.580Z",
+  "exportedAt": "2026-09-07T00:06:33.107Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1199,7 +1199,15 @@
     },
     "m_jig7aydp|2026-09-10": {
       "tag": "office",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "t_6oac9w1h",
+          "date": "2026-09-10",
+          "endDate": "",
+          "text": "CRF training @4pm",
+          "status": "not-started"
+        }
+      ],
       "comment": ""
     },
     "m_lnyo2eed|2026-09-10": {
