@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-07T05:01:32.380Z",
+  "exportedAt": "2026-09-08T23:52:13.896Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1145,21 +1145,14 @@
           "date": "2026-09-07",
           "endDate": "",
           "text": "Aloha QS demo @4pm",
-          "status": "not-started"
-        },
-        {
-          "id": "t_pgnh2oj5",
-          "date": "2026-09-07",
-          "endDate": "2026-09-09",
-          "text": "ISP training @3pm",
-          "status": "not-started"
+          "status": "completed"
         },
         {
           "id": "t_t6eexjr3",
           "date": "2026-09-07",
-          "endDate": "",
+          "endDate": "2026-09-08",
           "text": "Lets BOH Maintenance creation",
-          "status": "in-progress"
+          "status": "completed"
         }
       ],
       "comment": ""
@@ -1175,14 +1168,29 @@
       "comment": "CTO"
     },
     "m_jig7aydp|2026-09-08": {
-      "tag": "office",
-      "tasks": [],
+      "tag": "at_gfigh1b7",
+      "tasks": [
+        {
+          "id": "t_lfl67gkb",
+          "date": "2026-09-08",
+          "endDate": "",
+          "text": "Let's Plugin presentation with S' Raven",
+          "status": "completed"
+        },
+        {
+          "id": "t_j8r579eb",
+          "date": "2026-09-08",
+          "endDate": "",
+          "text": "Weekly update for Let's and Torikizoku",
+          "status": "completed"
+        }
+      ],
       "comment": ""
     },
     "m_lnyo2eed|2026-09-08": {
-      "tag": "office",
+      "tag": "at_7v4aujf5",
       "tasks": [],
-      "comment": ""
+      "comment": "CTO"
     },
     "m_00tz16bv|2026-09-08": {
       "tag": "office",
@@ -1205,14 +1213,21 @@
           "endDate": "",
           "text": "Key Coffee Demo @2pm",
           "status": "not-started"
+        },
+        {
+          "id": "t_hooeuqfg",
+          "date": "2026-09-09",
+          "endDate": "2026-09-11",
+          "text": "ISP training @3pm",
+          "status": "not-started"
         }
       ],
       "comment": ""
     },
     "m_lnyo2eed|2026-09-09": {
-      "tag": "office",
+      "tag": "at_7v4aujf5",
       "tasks": [],
-      "comment": ""
+      "comment": "EL"
     },
     "m_00tz16bv|2026-09-09": {
       "tag": "office",
@@ -1267,7 +1282,22 @@
     },
     "m_jig7aydp|2026-09-14": {
       "tag": "office",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "t_yjs78ws9",
+          "date": "2026-09-14",
+          "endDate": "",
+          "text": "Retail Meeting @9am",
+          "status": "not-started"
+        },
+        {
+          "id": "t_g4eeuipr",
+          "date": "2026-09-14",
+          "endDate": "",
+          "text": "BK CRF Training @3pm",
+          "status": "not-started"
+        }
+      ],
       "comment": ""
     },
     "m_lnyo2eed|2026-09-14": {
