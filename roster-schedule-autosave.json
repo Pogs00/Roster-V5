@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-09T07:27:16.644Z",
+  "exportedAt": "2026-09-09T07:32:17.364Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1205,7 +1205,7 @@
           "date": "2026-09-09",
           "endDate": "",
           "text": "Torikizoku demo with S' Raven",
-          "status": "not-started"
+          "status": "ts_fnbk482o"
         },
         {
           "id": "t_hooeuqfg",
@@ -1227,6 +1227,20 @@
           "endDate": "",
           "text": "Let's SOK testing with Von",
           "status": "in-progress"
+        },
+        {
+          "id": "t_dmprtbx4",
+          "date": "2026-09-09",
+          "endDate": "",
+          "text": "Torikizoku KDS testing",
+          "status": "not-started"
+        },
+        {
+          "id": "t_1udvd6hw",
+          "date": "2026-09-09",
+          "endDate": "",
+          "text": "Let's digital menu board testing",
+          "status": "not-started"
         }
       ],
       "comment": ""
