@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-09T03:32:26.825Z",
+  "exportedAt": "2026-09-09T03:37:18.211Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1227,6 +1227,13 @@
           "endDate": "",
           "text": "Recall process manual for Let's",
           "status": "completed"
+        },
+        {
+          "id": "t_b6q0bo4y",
+          "date": "2026-09-09",
+          "endDate": "",
+          "text": "Let's SOK testing with Von",
+          "status": "in-progress"
         }
       ],
       "comment": ""
