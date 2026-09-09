@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-09T09:46:37.775Z",
+  "exportedAt": "2026-09-09T09:47:16.911Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1226,21 +1226,21 @@
           "date": "2026-09-09",
           "endDate": "",
           "text": "Let's SOK testing with Von",
-          "status": "in-progress"
+          "status": "completed"
         },
         {
           "id": "t_dmprtbx4",
           "date": "2026-09-09",
           "endDate": "",
           "text": "Torikizoku KDS testing",
-          "status": "not-started"
+          "status": "completed"
         },
         {
           "id": "t_1udvd6hw",
           "date": "2026-09-09",
-          "endDate": "",
+          "endDate": "2026-09-11",
           "text": "Let's digital menu board testing",
-          "status": "not-started"
+          "status": "in-progress"
         }
       ],
       "comment": ""
