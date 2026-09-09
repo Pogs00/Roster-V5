@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-09T23:49:59.078Z",
+  "exportedAt": "2026-09-09T23:54:58.230Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1281,8 +1281,16 @@
       "comment": ""
     },
     "m_00tz16bv|2026-09-10": {
-      "tag": "office",
-      "tasks": [],
+      "tag": "at_0u69b8jt",
+      "tasks": [
+        {
+          "id": "t_bscuw3yg",
+          "date": "2026-09-10",
+          "endDate": "",
+          "text": "PLK Felix finalize setup",
+          "status": "not-started"
+        }
+      ],
       "comment": ""
     },
     "m_jig7aydp|2026-09-11": {
