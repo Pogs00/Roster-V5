@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-10T07:48:18.559Z",
+  "exportedAt": "2026-09-10T07:49:57.416Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1263,20 +1263,48 @@
           "date": "2026-09-10",
           "endDate": "",
           "text": "CRF training @4pm",
-          "status": "not-started"
+          "status": "ts_fnbk482o"
         },
         {
           "id": "t_z0u0fplg",
           "date": "2026-09-10",
           "endDate": "",
           "text": "CMS Installation training @10am",
-          "status": "not-started"
+          "status": "ts_fnbk482o"
         },
         {
           "id": "t_wtnff7my",
           "date": "2026-09-10",
           "endDate": "",
           "text": "Create transaction for BIR report test script",
+          "status": "completed"
+        },
+        {
+          "id": "t_i94ssmdd",
+          "date": "2026-09-10",
+          "endDate": "",
+          "text": "Transact order for 2 POS and get dated folder, create test script based on these transaction and email to dev team for BIR report utility up",
+          "status": "completed"
+        },
+        {
+          "id": "t_3aeio008",
+          "date": "2026-09-10",
+          "endDate": "",
+          "text": "Test new POS Kaimirui",
+          "status": "completed"
+        },
+        {
+          "id": "t_ssfd144h",
+          "date": "2026-09-10",
+          "endDate": "",
+          "text": "Dev process meeting",
+          "status": "completed"
+        },
+        {
+          "id": "t_o9ehjmz5",
+          "date": "2026-09-10",
+          "endDate": "",
+          "text": "SOK testing, all items, POS1 and POS2 recall process.",
           "status": "completed"
         }
       ],
