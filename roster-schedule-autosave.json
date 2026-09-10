@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-09T23:59:58.208Z",
+  "exportedAt": "2026-09-10T00:04:59.026Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1271,6 +1271,13 @@
           "endDate": "",
           "text": "CMS Installation training @10am",
           "status": "not-started"
+        },
+        {
+          "id": "t_wtnff7my",
+          "date": "2026-09-10",
+          "endDate": "",
+          "text": "Create transaction for BIR report test script",
+          "status": "completed"
         }
       ],
       "comment": ""
