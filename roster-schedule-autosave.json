@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-11T07:40:32.488Z",
+  "exportedAt": "2026-09-11T07:45:32.576Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1335,7 +1335,7 @@
           "date": "2026-09-11",
           "endDate": "",
           "text": "Torikizoku run through",
-          "status": "not-started"
+          "status": "completed"
         },
         {
           "id": "t_n9c64bpl",
