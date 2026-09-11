@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-11T00:43:42.614Z",
+  "exportedAt": "2026-09-11T00:44:46.358Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1337,6 +1337,20 @@
           "endDate": "",
           "text": "Torikizoku user manual creation",
           "status": "not-started"
+        },
+        {
+          "id": "t_44ar7dol",
+          "date": "2026-09-11",
+          "endDate": "",
+          "text": "Torikizoku final run through",
+          "status": "not-started"
+        },
+        {
+          "id": "t_288p0c0s",
+          "date": "2026-09-11",
+          "endDate": "",
+          "text": "Let's Rockwell email update",
+          "status": "completed"
         }
       ],
       "comment": ""
