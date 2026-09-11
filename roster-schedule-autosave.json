@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-11T08:50:32.331Z",
+  "exportedAt": "2026-09-11T08:55:32.332Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1328,7 +1328,7 @@
           "date": "2026-09-11",
           "endDate": "",
           "text": "Torikizoku user manual creation",
-          "status": "not-started"
+          "status": "in-progress"
         },
         {
           "id": "t_lz0jmgev",
