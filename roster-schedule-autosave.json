@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-11T06:33:02.049Z",
+  "exportedAt": "2026-09-11T06:35:32.783Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1349,6 +1349,13 @@
           "date": "2026-09-11",
           "endDate": "",
           "text": "PLK Felix BIR application coordination with M' Rochell",
+          "status": "completed"
+        },
+        {
+          "id": "t_7wfodxk0",
+          "date": "2026-09-11",
+          "endDate": "",
+          "text": "Create JRF for plugin and BIR Report",
           "status": "completed"
         }
       ],
