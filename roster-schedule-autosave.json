@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-11T00:45:02.462Z",
+  "exportedAt": "2026-09-11T00:50:03.106Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1317,15 +1317,7 @@
     },
     "m_00tz16bv|2026-09-10": {
       "tag": "office",
-      "tasks": [
-        {
-          "id": "t_bscuw3yg",
-          "date": "2026-09-10",
-          "endDate": "",
-          "text": "PLK Felix finalize setup",
-          "status": "not-started"
-        }
-      ],
+      "tasks": [],
       "comment": ""
     },
     "m_jig7aydp|2026-09-11": {
@@ -1337,6 +1329,27 @@
           "endDate": "",
           "text": "Torikizoku user manual creation",
           "status": "not-started"
+        },
+        {
+          "id": "t_lz0jmgev",
+          "date": "2026-09-11",
+          "endDate": "",
+          "text": "Torikizoku run through",
+          "status": "not-started"
+        },
+        {
+          "id": "t_n9c64bpl",
+          "date": "2026-09-11",
+          "endDate": "",
+          "text": "Let's rockwell email update",
+          "status": "completed"
+        },
+        {
+          "id": "t_61xktdv4",
+          "date": "2026-09-11",
+          "endDate": "",
+          "text": "PLK Felix BIR application coordination with M' Rochell",
+          "status": "completed"
         }
       ],
       "comment": ""
