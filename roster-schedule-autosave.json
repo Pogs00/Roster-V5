@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-11T09:05:32.272Z",
+  "exportedAt": "2026-09-14T23:44:16.855Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1392,13 +1392,21 @@
       "comment": ""
     },
     "m_lnyo2eed|2026-09-14": {
-      "tag": "office",
+      "tag": "at_7v4aujf5",
       "tasks": [],
-      "comment": ""
+      "comment": "CTS - S1 Duty 09/13/2026"
     },
     "m_00tz16bv|2026-09-14": {
-      "tag": "office",
-      "tasks": [],
+      "tag": "at_0u69b8jt",
+      "tasks": [
+        {
+          "id": "t_2sa9vemc",
+          "date": "2026-09-14",
+          "endDate": "",
+          "text": "PLK Felix setup",
+          "status": "completed"
+        }
+      ],
       "comment": ""
     },
     "m_jig7aydp|2026-09-15": {
@@ -1633,6 +1641,19 @@
         {
           "id": "t_92sn25xb",
           "date": "2026-09-05",
+          "endDate": "",
+          "text": "S1 Duty",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-09-13": {
+      "tag": "at_jida8xir",
+      "tasks": [
+        {
+          "id": "t_9cz9efy9",
+          "date": "2026-09-13",
           "endDate": "",
           "text": "S1 Duty",
           "status": "completed"
