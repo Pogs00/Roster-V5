@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-14T23:44:20.448Z",
+  "exportedAt": "2026-09-14T23:49:20.797Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1411,7 +1411,22 @@
     },
     "m_jig7aydp|2026-09-15": {
       "tag": "office",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "t_0bgeek6h",
+          "date": "2026-09-15",
+          "endDate": "",
+          "text": "Fruitas Demo",
+          "status": "not-started"
+        },
+        {
+          "id": "t_n4mp0qpq",
+          "date": "2026-09-15",
+          "endDate": "",
+          "text": "Hotel Kimberly Demo",
+          "status": "not-started"
+        }
+      ],
       "comment": ""
     },
     "m_lnyo2eed|2026-09-15": {
@@ -1754,7 +1769,7 @@
       },
       {
         "store": "All V19 Stores",
-        "description": "BIR Report Utility",
+        "description": "PLK BIR Report Utility",
         "pointPerson": "Nelson",
         "status": "Delayed",
         "startDate": "2026-08-17",
@@ -1874,6 +1889,10 @@
           {
             "date": "9/4/2026, 9:41:55 AM",
             "text": "Old revise date 09/02/2026"
+          },
+          {
+            "date": "9/15/2026, 7:47:50 AM",
+            "text": "Upsell encountered issue, 0 price for checking c/o dev"
           }
         ]
       },
@@ -1970,7 +1989,7 @@
       {
         "store": "Let's Eat Rockwell Pasig",
         "description": "Digital Menu Board Installation",
-        "pointPerson": "Kent",
+        "pointPerson": "Chas",
         "status": "Delayed",
         "startDate": "2026-08-27",
         "endDate": "2026-09-01",
@@ -1987,6 +2006,10 @@
           {
             "date": "9/4/2026, 9:40:57 AM",
             "text": "Follow up schedule installation with M' Yeng, no feedback yet"
+          },
+          {
+            "date": "9/15/2026, 7:47:16 AM",
+            "text": "Ongoing testing c/o Clarence"
           }
         ]
       },
@@ -1994,7 +2017,7 @@
         "store": "New Store Standard",
         "description": "Aloha Standardization - Standard Plugin Testing",
         "pointPerson": "Lawrence",
-        "status": "For Testing",
+        "status": "Delayed",
         "startDate": "2026-08-27",
         "endDate": "2026-09-04",
         "reviseEndDate": "",
@@ -2022,6 +2045,10 @@
           {
             "date": "9/9/2026, 7:53:17 AM",
             "text": "Encounter error when doing checkout"
+          },
+          {
+            "date": "9/15/2026, 7:46:36 AM",
+            "text": "Discount: POS SCD and PWD in one check. Checkout: error encountered when clicking the checkout button. Ejournal: Z reading not yet available. Ejournal: Remove X reading. Report: Z reading and X reading viewer."
           }
         ]
       },
@@ -2041,6 +2068,10 @@
           {
             "date": "9/1/2026, 1:22:03 PM",
             "text": "Still not available yet"
+          },
+          {
+            "date": "9/15/2026, 7:46:51 AM",
+            "text": "Sales summary report for SOK not present. Detailed summary report for POS and SOK not present. Government reports are blank (SCD, PWD, NACD). Zero rated report is blank. Void report is blank. Z reading report missing reset counter. X reading not working."
           }
         ]
       }
