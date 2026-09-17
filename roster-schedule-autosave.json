@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-17T06:29:12.917Z",
+  "exportedAt": "2026-09-17T06:34:12.928Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1440,21 +1440,29 @@
       "comment": ""
     },
     "m_jig7aydp|2026-09-16": {
-      "tag": "office",
+      "tag": "at_7v4aujf5",
       "tasks": [
         {
           "id": "t_khz3cl7f",
           "date": "2026-09-16",
           "endDate": "",
           "text": "Steak and Fries BPR",
-          "status": "not-started"
+          "status": "ts_fnbk482o"
         }
       ],
-      "comment": ""
+      "comment": "SL"
     },
     "m_lnyo2eed|2026-09-16": {
       "tag": "office",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "t_u5c60ma9",
+          "date": "2026-09-16",
+          "endDate": "",
+          "text": "Lets Ocular Visit",
+          "status": "completed"
+        }
+      ],
       "comment": ""
     },
     "m_00tz16bv|2026-09-16": {
@@ -1464,7 +1472,15 @@
     },
     "m_jig7aydp|2026-09-17": {
       "tag": "office",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "t_h7fml07r",
+          "date": "2026-09-17",
+          "endDate": "",
+          "text": "",
+          "status": "not-started"
+        }
+      ],
       "comment": ""
     },
     "m_lnyo2eed|2026-09-17": {
