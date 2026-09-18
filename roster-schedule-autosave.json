@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-18T00:49:10.291Z",
+  "exportedAt": "2026-09-18T00:54:10.725Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1477,8 +1477,15 @@
           "id": "t_h7fml07r",
           "date": "2026-09-17",
           "endDate": "",
-          "text": "",
-          "status": "not-started"
+          "text": "Torikizoku testing (POS and KDS)",
+          "status": "completed"
+        },
+        {
+          "id": "t_4xz0wx6a",
+          "date": "2026-09-17",
+          "endDate": "2026-09-18",
+          "text": "Torikizoku new item creation(Aloha item, Aloha button, Aloha priority, CMS item creation, New images uploading)",
+          "status": "in-progress"
         }
       ],
       "comment": ""
@@ -1495,7 +1502,15 @@
     },
     "m_jig7aydp|2026-09-18": {
       "tag": "office",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "t_33uyj2dr",
+          "date": "2026-09-18",
+          "endDate": "",
+          "text": "AFH pre-planning meeting @11am",
+          "status": "not-started"
+        }
+      ],
       "comment": ""
     },
     "m_lnyo2eed|2026-09-18": {
