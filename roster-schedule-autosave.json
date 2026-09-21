@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-21T05:19:00.025Z",
+  "exportedAt": "2026-09-21T05:23:59.451Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1524,9 +1524,17 @@
       "comment": ""
     },
     "m_jig7aydp|2026-09-21": {
-      "tag": "office",
-      "tasks": [],
-      "comment": ""
+      "tag": "at_tp8c1pfc",
+      "tasks": [
+        {
+          "id": "t_vzay4k1s",
+          "date": "2026-09-21",
+          "endDate": "",
+          "text": "Torikizoku Run Through",
+          "status": "completed"
+        }
+      ],
+      "comment": "HD second half"
     },
     "m_lnyo2eed|2026-09-21": {
       "tag": "office",
@@ -1589,9 +1597,9 @@
       "comment": ""
     },
     "m_lnyo2eed|2026-09-25": {
-      "tag": "at_gfigh1b7",
+      "tag": "at_7v4aujf5",
       "tasks": [],
-      "comment": ""
+      "comment": "CTO"
     },
     "m_00tz16bv|2026-09-25": {
       "tag": "at_gfigh1b7",
