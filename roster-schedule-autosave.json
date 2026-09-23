@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-23T01:46:01.690Z",
+  "exportedAt": "2026-09-23T01:48:06.141Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1548,12 +1548,35 @@
     },
     "m_jig7aydp|2026-09-22": {
       "tag": "office",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "t_v1bqmijj",
+          "date": "2026-09-22",
+          "endDate": "",
+          "text": "Retail Meeting",
+          "status": "completed"
+        },
+        {
+          "id": "t_6ipf6mm1",
+          "date": "2026-09-22",
+          "endDate": "",
+          "text": "Torikizoku Run through",
+          "status": "completed"
+        }
+      ],
       "comment": ""
     },
     "m_lnyo2eed|2026-09-22": {
-      "tag": "office",
-      "tasks": [],
+      "tag": "at_0u69b8jt",
+      "tasks": [
+        {
+          "id": "t_bnms7rbs",
+          "date": "2026-09-22",
+          "endDate": "",
+          "text": "Tori Sanwa Server Reinstallation",
+          "status": "completed"
+        }
+      ],
       "comment": ""
     },
     "m_00tz16bv|2026-09-22": {
@@ -1562,17 +1585,25 @@
       "comment": ""
     },
     "m_jig7aydp|2026-09-23": {
-      "tag": "office",
-      "tasks": [],
+      "tag": "at_tljjo94f",
+      "tasks": [
+        {
+          "id": "t_ow0ybipn",
+          "date": "2026-09-23",
+          "endDate": "",
+          "text": "Torikizoku setup and simulation",
+          "status": "not-started"
+        }
+      ],
       "comment": ""
     },
     "m_lnyo2eed|2026-09-23": {
-      "tag": "office",
+      "tag": "at_7v4aujf5",
       "tasks": [],
-      "comment": ""
+      "comment": "CTS"
     },
     "m_00tz16bv|2026-09-23": {
-      "tag": "office",
+      "tag": "at_tp8c1pfc",
       "tasks": [],
       "comment": ""
     },
