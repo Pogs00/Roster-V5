@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-23T23:57:18.116Z",
+  "exportedAt": "2026-09-24T00:02:18.706Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1379,14 +1379,14 @@
           "date": "2026-09-14",
           "endDate": "",
           "text": "Retail Meeting @9am",
-          "status": "not-started"
+          "status": "completed"
         },
         {
           "id": "t_g4eeuipr",
           "date": "2026-09-14",
           "endDate": "",
           "text": "BK CRF Training @3pm",
-          "status": "not-started"
+          "status": "ts_fnbk482o"
         }
       ],
       "comment": ""
@@ -1417,14 +1417,14 @@
           "date": "2026-09-15",
           "endDate": "",
           "text": "Fruitas Demo",
-          "status": "not-started"
+          "status": "completed"
         },
         {
           "id": "t_n4mp0qpq",
           "date": "2026-09-15",
           "endDate": "",
           "text": "Hotel Kimberly Demo",
-          "status": "not-started"
+          "status": "completed"
         }
       ],
       "comment": ""
@@ -1508,7 +1508,7 @@
           "date": "2026-09-18",
           "endDate": "",
           "text": "AFH pre-planning meeting @11am",
-          "status": "not-started"
+          "status": "completed"
         }
       ],
       "comment": ""
@@ -1615,7 +1615,7 @@
           "date": "2026-09-24",
           "endDate": "",
           "text": "Torikizoku Japan UAT",
-          "status": "not-started"
+          "status": "in-progress"
         }
       ],
       "comment": ""
