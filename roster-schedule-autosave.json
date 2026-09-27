@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-27T23:52:02.310Z",
+  "exportedAt": "2026-09-27T23:57:10.229Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1615,7 +1615,7 @@
           "date": "2026-09-24",
           "endDate": "",
           "text": "Torikizoku Japan UAT",
-          "status": "in-progress"
+          "status": "completed"
         }
       ],
       "comment": ""
@@ -1632,7 +1632,15 @@
     },
     "m_jig7aydp|2026-09-25": {
       "tag": "office",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "t_tnc7zx49",
+          "date": "2026-09-25",
+          "endDate": "",
+          "text": "Continuation of UAT (Torikizoku)",
+          "status": "completed"
+        }
+      ],
       "comment": ""
     },
     "m_lnyo2eed|2026-09-25": {
