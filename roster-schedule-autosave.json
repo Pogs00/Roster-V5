@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-28T02:47:05.412Z",
+  "exportedAt": "2026-09-28T02:52:05.242Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1678,15 +1678,15 @@
           "id": "t_h0q47zhs",
           "date": "2026-09-28",
           "endDate": "",
-          "text": "BIR Checking (PLK ",
-          "status": "not-started"
+          "text": "BIR Checking (PLK v2)",
+          "status": "in-progress"
         },
         {
           "id": "t_bib40hui",
           "date": "2026-09-28",
           "endDate": "",
           "text": "Grab audit",
-          "status": "not-started"
+          "status": "in-progress"
         }
       ],
       "comment": ""
