@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-09-28T02:46:17.668Z",
+  "exportedAt": "2026-09-28T02:47:05.412Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1655,7 +1655,15 @@
     },
     "m_jig7aydp|2026-09-28": {
       "tag": "office",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "t_hitacie5",
+          "date": "2026-09-28",
+          "endDate": "",
+          "text": "Retail Weekly Meeting @9am",
+          "status": "completed"
+        }
+      ],
       "comment": ""
     },
     "m_lnyo2eed|2026-09-28": {
@@ -1665,7 +1673,22 @@
     },
     "m_00tz16bv|2026-09-28": {
       "tag": "office",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "t_h0q47zhs",
+          "date": "2026-09-28",
+          "endDate": "",
+          "text": "BIR Checking (PLK ",
+          "status": "not-started"
+        },
+        {
+          "id": "t_bib40hui",
+          "date": "2026-09-28",
+          "endDate": "",
+          "text": "Grab audit",
+          "status": "not-started"
+        }
+      ],
       "comment": ""
     },
     "m_jig7aydp|2026-09-29": {
