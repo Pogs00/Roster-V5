@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-10-01T00:13:27.839Z",
+  "exportedAt": "2026-10-01T00:18:27.510Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1850,6 +1850,29 @@
           "status": "completed"
         }
       ],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-10-01": {
+      "tag": "office",
+      "tasks": [
+        {
+          "id": "t_a7betuu9",
+          "date": "2026-10-01",
+          "endDate": "",
+          "text": "Torikizoku test machine setup and testing",
+          "status": "not-started"
+        }
+      ],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-10-01": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-10-01": {
+      "tag": "office",
+      "tasks": [],
       "comment": ""
     }
   },
