@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-10-01T05:22:05.143Z",
+  "exportedAt": "2026-10-01T05:23:26.521Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1860,7 +1860,14 @@
           "date": "2026-10-01",
           "endDate": "",
           "text": "Torikizoku test machine setup and testing",
-          "status": "not-started"
+          "status": "completed"
+        },
+        {
+          "id": "t_1hgcip01",
+          "date": "2026-10-01",
+          "endDate": "",
+          "text": "Remote Torikizoku and add new item and drinks images.",
+          "status": "in-progress"
         }
       ],
       "comment": ""
