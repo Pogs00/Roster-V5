@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-10-01T00:03:26.548Z",
+  "exportedAt": "2026-10-01T00:08:27.689Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1708,7 +1708,29 @@
     },
     "m_jig7aydp|2026-09-29": {
       "tag": "office",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "t_kqn791as",
+          "date": "2026-09-29",
+          "endDate": "",
+          "text": "Plugin testing with S' Harmon.",
+          "status": "completed"
+        },
+        {
+          "id": "t_2p4nya26",
+          "date": "2026-09-29",
+          "endDate": "",
+          "text": "Project discussion with S' Raven.",
+          "status": "completed"
+        },
+        {
+          "id": "t_qdo3nd42",
+          "date": "2026-09-29",
+          "endDate": "",
+          "text": "Assist Kent on Food Panda integration",
+          "status": "completed"
+        }
+      ],
       "comment": ""
     },
     "m_lnyo2eed|2026-09-29": {
@@ -1728,12 +1750,42 @@
     },
     "m_lnyo2eed|2026-09-30": {
       "tag": "office",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "t_ptgmvmut",
+          "date": "2026-09-30",
+          "endDate": "",
+          "text": "Lets Plugin testing and monitoring",
+          "status": "completed"
+        }
+      ],
       "comment": ""
     },
     "m_jig7aydp|2026-09-30": {
       "tag": "office",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "t_7di902xa",
+          "date": "2026-09-30",
+          "endDate": "",
+          "text": "Torikizoku testing onsite",
+          "status": "completed"
+        },
+        {
+          "id": "t_iyh0vnmf",
+          "date": "2026-09-30",
+          "endDate": "",
+          "text": "Lets SOK configuration",
+          "status": "completed"
+        },
+        {
+          "id": "t_t04s0nou",
+          "date": "2026-09-30",
+          "endDate": "",
+          "text": "BIR Report discussion with Dev",
+          "status": "completed"
+        }
+      ],
       "comment": ""
     },
     "m_00tz16bv|2026-08-23": {
@@ -2177,6 +2229,10 @@
           {
             "date": "9/29/2026, 8:59:12 AM",
             "text": "Ongoing for Lets and Torikizoku"
+          },
+          {
+            "date": "10/1/2026, 8:07:06 AM",
+            "text": "Set a meeting with dev to discuss the status"
           }
         ]
       },
@@ -2204,6 +2260,10 @@
           {
             "date": "9/29/2026, 8:59:16 AM",
             "text": "Ongoing for Lets and Torikizoku"
+          },
+          {
+            "date": "10/1/2026, 8:06:55 AM",
+            "text": "Set a meeting with dev to discuss the status"
           }
         ]
       }
