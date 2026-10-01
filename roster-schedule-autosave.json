@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-10-01T23:53:48.269Z",
+  "exportedAt": "2026-10-01T23:58:48.533Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1879,6 +1879,54 @@
     },
     "m_00tz16bv|2026-10-01": {
       "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-10-15": {
+      "tag": "at_7v4aujf5",
+      "tasks": [],
+      "comment": "CTO"
+    },
+    "m_00tz16bv|2026-10-16": {
+      "tag": "at_7v4aujf5",
+      "tasks": [],
+      "comment": "CTO"
+    },
+    "m_jig7aydp|2026-10-02": {
+      "tag": "office",
+      "tasks": [
+        {
+          "id": "t_5h0c2nmf",
+          "date": "2026-10-02",
+          "endDate": "",
+          "text": "Lets full cycle testing before delivery",
+          "status": "not-started"
+        },
+        {
+          "id": "t_dyfbltke",
+          "date": "2026-10-02",
+          "endDate": "",
+          "text": "Torikizoki menuX testing",
+          "status": "not-started"
+        }
+      ],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-10-02": {
+      "tag": "at_gfigh1b7",
+      "tasks": [
+        {
+          "id": "t_i6n3zzmu",
+          "date": "2026-10-02",
+          "endDate": "",
+          "text": "Ticket monitoring",
+          "status": "not-started"
+        }
+      ],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-10-02": {
+      "tag": "at_gfigh1b7",
       "tasks": [],
       "comment": ""
     }
