@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-10-02T00:03:48.531Z",
+  "exportedAt": "2026-10-02T00:08:48.268Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1867,19 +1867,42 @@
           "date": "2026-10-01",
           "endDate": "",
           "text": "Remote Torikizoku and add new item and drinks images.",
-          "status": "in-progress"
+          "status": "completed"
+        },
+        {
+          "id": "t_c6z7a76o",
+          "date": "2026-10-01",
+          "endDate": "",
+          "text": "Torikizoku discussion with S' Mark and Kent",
+          "status": "completed"
         }
       ],
       "comment": ""
     },
     "m_lnyo2eed|2026-10-01": {
       "tag": "office",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "t_qjprg9yg",
+          "date": "2026-10-01",
+          "endDate": "",
+          "text": "Lets testing and test script creation for BIR report",
+          "status": "completed"
+        }
+      ],
       "comment": ""
     },
     "m_00tz16bv|2026-10-01": {
       "tag": "office",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "t_xu99vy1u",
+          "date": "2026-10-01",
+          "endDate": "",
+          "text": "PLK grab item creation and monitoring",
+          "status": "completed"
+        }
+      ],
       "comment": ""
     },
     "m_00tz16bv|2026-10-15": {
@@ -1926,7 +1949,7 @@
       "comment": ""
     },
     "m_00tz16bv|2026-10-02": {
-      "tag": "at_gfigh1b7",
+      "tag": "office",
       "tasks": [],
       "comment": ""
     }
