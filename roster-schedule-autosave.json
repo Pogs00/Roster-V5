@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-10-02T00:08:48.268Z",
+  "exportedAt": "2026-10-02T00:13:48.273Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -2499,7 +2499,7 @@
         "quarter": "4th",
         "year": 2025,
         "existingClient": "Yes",
-        "signOff": "No",
+        "signOff": "Yes",
         "withDocuments": "No"
       },
       {
@@ -2769,7 +2769,7 @@
         "quarter": "2nd",
         "year": 2026,
         "existingClient": "Yes",
-        "signOff": "No",
+        "signOff": "Yes",
         "withDocuments": "No"
       },
       {
@@ -2787,7 +2787,7 @@
         "quarter": "2nd",
         "year": 2026,
         "existingClient": "Yes",
-        "signOff": "No",
+        "signOff": "Yes",
         "withDocuments": "No"
       },
       {
@@ -2805,7 +2805,7 @@
         "quarter": "2nd",
         "year": 2026,
         "existingClient": "Yes",
-        "signOff": "No",
+        "signOff": "Yes",
         "withDocuments": "No"
       },
       {
@@ -2823,7 +2823,7 @@
         "quarter": "2nd",
         "year": 2026,
         "existingClient": "Yes",
-        "signOff": "No",
+        "signOff": "Yes",
         "withDocuments": "No"
       },
       {
@@ -2879,6 +2879,24 @@
         "signOff": "No",
         "withDocuments": "No",
         "id": "p5_lwaeg"
+      },
+      {
+        "projectNumber": "PRJ-0028",
+        "store": "Steak and Fries",
+        "branch": "Galleria",
+        "description": "Aloha TS V19 Implementation + Supy + Seven Rooms",
+        "poc": "Lawrence Fernandez",
+        "hwResource": "",
+        "implCompletionDate": "",
+        "turnoverDate": "",
+        "supportAcceptanceDate": "",
+        "status": "In Progress",
+        "quarter": "3rd",
+        "year": 2026,
+        "existingClient": "No",
+        "signOff": "No",
+        "withDocuments": "No",
+        "id": "p3_rrsor"
       }
     ]
   }
