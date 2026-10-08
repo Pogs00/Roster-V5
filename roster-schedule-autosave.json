@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-10-08T00:31:01.955Z",
+  "exportedAt": "2026-10-08T00:36:01.962Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1923,21 +1923,21 @@
           "date": "2026-10-02",
           "endDate": "",
           "text": "Lets full cycle testing before delivery",
-          "status": "not-started"
+          "status": "completed"
         },
         {
           "id": "t_dyfbltke",
           "date": "2026-10-02",
           "endDate": "",
           "text": "Torikizoki menuX testing",
-          "status": "not-started"
+          "status": "completed"
         },
         {
           "id": "t_7lo9oora",
           "date": "2026-10-02",
           "endDate": "",
           "text": "PLK Demo - GenX POS",
-          "status": "not-started"
+          "status": "ts_fnbk482o"
         }
       ],
       "comment": ""
@@ -1974,6 +1974,45 @@
       "tag": "at_7v4aujf5",
       "tasks": [],
       "comment": "CTO - Plan Leave"
+    },
+    "m_jig7aydp|2026-10-05": {
+      "tag": "",
+      "tasks": [
+        {
+          "id": "t_pilvgpxk",
+          "date": "2026-10-05",
+          "endDate": "",
+          "text": "Torikizoku 1st day simulation",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-10-06": {
+      "tag": "",
+      "tasks": [
+        {
+          "id": "t_i7757q72",
+          "date": "2026-10-06",
+          "endDate": "",
+          "text": "Torikizoku 2nd day simulation",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-10-07": {
+      "tag": "",
+      "tasks": [
+        {
+          "id": "t_920mok5g",
+          "date": "2026-10-07",
+          "endDate": "",
+          "text": "Torikizoku final simulation",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
     }
   },
   "projectMonitoring": {
