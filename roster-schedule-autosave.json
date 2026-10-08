@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-10-08T04:41:00.311Z",
+  "exportedAt": "2026-10-08T04:45:59.690Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -2012,6 +2012,43 @@
           "status": "completed"
         }
       ],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-10-08": {
+      "tag": "at_tljjo94f",
+      "tasks": [
+        {
+          "id": "t_abx20lea",
+          "date": "2026-10-08",
+          "endDate": "",
+          "text": "Steak and Frice BPR",
+          "status": "completed"
+        },
+        {
+          "id": "t_rhxe68c0",
+          "date": "2026-10-08",
+          "endDate": "",
+          "text": "Q3 evaluation",
+          "status": "completed"
+        },
+        {
+          "id": "t_kqp68juw",
+          "date": "2026-10-08",
+          "endDate": "",
+          "text": "Torikizoku Dry run standby",
+          "status": "not-started"
+        }
+      ],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-10-08": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-10-08": {
+      "tag": "office",
+      "tasks": [],
       "comment": ""
     }
   },
