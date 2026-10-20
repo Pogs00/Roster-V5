@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-10-20T23:48:07.087Z",
+  "exportedAt": "2026-10-20T23:53:04.709Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -2124,6 +2124,83 @@
           "date": "2026-10-19",
           "endDate": "",
           "text": "Retail Meeting",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-10-20": {
+      "tag": "office",
+      "tasks": [
+        {
+          "id": "t_02djpkiq",
+          "date": "2026-10-20",
+          "endDate": "",
+          "text": "Tori Sanwa coordination",
+          "status": "completed"
+        },
+        {
+          "id": "t_h4hch1yn",
+          "date": "2026-10-20",
+          "endDate": "",
+          "text": "Torikizoku testing",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-10-20": {
+      "tag": "at_tljjo94f",
+      "tasks": [
+        {
+          "id": "t_eyby47nw",
+          "date": "2026-10-20",
+          "endDate": "",
+          "text": "Torikizoku standby",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-10-20": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-10-19": {
+      "tag": "",
+      "tasks": [
+        {
+          "id": "t_jnqgs99o",
+          "date": "2026-10-19",
+          "endDate": "",
+          "text": "torikizoku standby",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-10-18": {
+      "tag": "at_0u69b8jt",
+      "tasks": [
+        {
+          "id": "t_46jit3oe",
+          "date": "2026-10-18",
+          "endDate": "",
+          "text": "Torikizoku Standby",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-10-17": {
+      "tag": "at_0u69b8jt",
+      "tasks": [
+        {
+          "id": "t_e9qiamjc",
+          "date": "2026-10-17",
+          "endDate": "",
+          "text": "Torikizoku Standby",
           "status": "completed"
         }
       ],
