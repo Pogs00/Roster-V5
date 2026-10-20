@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-10-20T01:37:20.027Z",
+  "exportedAt": "2026-10-20T01:42:20.620Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1950,7 +1950,7 @@
           "date": "2026-10-02",
           "endDate": "",
           "text": "Ticket monitoring",
-          "status": "not-started"
+          "status": "completed"
         }
       ],
       "comment": ""
@@ -2036,7 +2036,7 @@
           "date": "2026-10-08",
           "endDate": "",
           "text": "Torikizoku Dry run standby",
-          "status": "not-started"
+          "status": "completed"
         }
       ],
       "comment": ""
@@ -2049,6 +2049,84 @@
     "m_00tz16bv|2026-10-08": {
       "tag": "office",
       "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-10-09": {
+      "tag": "at_0u69b8jt",
+      "tasks": [
+        {
+          "id": "t_7w12ogq0",
+          "date": "2026-10-09",
+          "endDate": "",
+          "text": "Torikizoku Dry Run",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-10-19": {
+      "tag": "at_7v4aujf5",
+      "tasks": [],
+      "comment": "CTO"
+    },
+    "m_jig7aydp|2026-10-12": {
+      "tag": "",
+      "tasks": [
+        {
+          "id": "t_so4r24x0",
+          "date": "2026-10-12",
+          "endDate": "2026-10-15",
+          "text": "Torikizoku Standby",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-10-16": {
+      "tag": "",
+      "tasks": [
+        {
+          "id": "t_34rr2xft",
+          "date": "2026-10-16",
+          "endDate": "",
+          "text": "Torikizoku manual creation",
+          "status": "completed"
+        },
+        {
+          "id": "t_3quv7jlz",
+          "date": "2026-10-16",
+          "endDate": "",
+          "text": "S&F BRD creation",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-10-19": {
+      "tag": "office",
+      "tasks": [
+        {
+          "id": "t_7zelv3vn",
+          "date": "2026-10-19",
+          "endDate": "",
+          "text": "Let's internal testing",
+          "status": "completed"
+        },
+        {
+          "id": "t_kkfspxzm",
+          "date": "2026-10-19",
+          "endDate": "",
+          "text": "HMO Meeting",
+          "status": "completed"
+        },
+        {
+          "id": "t_6p9w0gom",
+          "date": "2026-10-19",
+          "endDate": "",
+          "text": "Retail Meeting",
+          "status": "completed"
+        }
+      ],
       "comment": ""
     }
   },
