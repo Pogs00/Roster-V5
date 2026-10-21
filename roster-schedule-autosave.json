@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-10-21T00:22:49.896Z",
+  "exportedAt": "2026-10-21T00:28:04.530Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -2204,6 +2204,24 @@
           "status": "completed"
         }
       ],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-10-21": {
+      "tag": "office",
+      "tasks": [
+        {
+          "id": "t_02dv0kai",
+          "date": "2026-10-21",
+          "endDate": "",
+          "text": "S&F server and POS setup",
+          "status": "in-progress"
+        }
+      ],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-10-21": {
+      "tag": "at_0u69b8jt",
+      "tasks": [],
       "comment": ""
     }
   },
