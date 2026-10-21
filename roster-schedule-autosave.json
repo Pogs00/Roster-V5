@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-10-21T02:23:04.128Z",
+  "exportedAt": "2026-10-21T02:28:04.042Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -2221,6 +2221,46 @@
     },
     "m_lnyo2eed|2026-10-21": {
       "tag": "at_0u69b8jt",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-12-28": {
+      "tag": "at_7v4aujf5",
+      "tasks": [],
+      "comment": "CTO - Plan Leave"
+    },
+    "m_jig7aydp|2026-12-29": {
+      "tag": "at_7v4aujf5",
+      "tasks": [],
+      "comment": "CTO - Plan Leave"
+    },
+    "m_jig7aydp|2026-12-24": {
+      "tag": "at_wcy669ra",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-12-24": {
+      "tag": "at_wcy669ra",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-12-24": {
+      "tag": "at_wcy669ra",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-12-30": {
+      "tag": "at_wcy669ra",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-12-30": {
+      "tag": "at_wcy669ra",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-12-30": {
+      "tag": "at_wcy669ra",
       "tasks": [],
       "comment": ""
     }
