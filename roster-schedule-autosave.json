@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-10-26T01:51:25.310Z",
+  "exportedAt": "2026-10-26T01:56:25.745Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -2444,6 +2444,21 @@
       "tag": "at_wcy669ra",
       "tasks": [],
       "comment": ""
+    },
+    "m_lnyo2eed|2026-12-28": {
+      "tag": "at_7v4aujf5",
+      "tasks": [],
+      "comment": "CTO - Plan Leave"
+    },
+    "m_lnyo2eed|2026-12-29": {
+      "tag": "at_7v4aujf5",
+      "tasks": [],
+      "comment": "CTO - Plan Leave"
+    },
+    "m_00tz16bv|2027-01-04": {
+      "tag": "at_7v4aujf5",
+      "tasks": [],
+      "comment": "CTO - Plan Leave"
     }
   },
   "projectMonitoring": {
