@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-10-26T02:01:25.299Z",
+  "exportedAt": "2026-10-26T02:11:11.720Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -2066,8 +2066,16 @@
     },
     "m_lnyo2eed|2026-10-19": {
       "tag": "at_0u69b8jt",
-      "tasks": [],
-      "comment": "CTO"
+      "tasks": [
+        {
+          "id": "t_325arfyl",
+          "date": "2026-10-19",
+          "endDate": "",
+          "text": "Torikizoku standby",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
     },
     "m_jig7aydp|2026-10-12": {
       "tag": "",
@@ -2375,7 +2383,7 @@
           "date": "2026-10-26",
           "endDate": "",
           "text": "Torikizoku standby",
-          "status": "in-progress"
+          "status": "completed"
         }
       ],
       "comment": ""
