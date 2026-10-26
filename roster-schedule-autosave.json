@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-10-26T00:51:26.001Z",
+  "exportedAt": "2026-10-26T00:56:25.995Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -2214,7 +2214,7 @@
           "date": "2026-10-21",
           "endDate": "",
           "text": "S&F server and POS setup",
-          "status": "in-progress"
+          "status": "completed"
         }
       ],
       "comment": ""
@@ -2227,7 +2227,7 @@
           "date": "2026-10-21",
           "endDate": "",
           "text": "Torikiziko Standby",
-          "status": "not-started"
+          "status": "completed"
         }
       ],
       "comment": ""
@@ -2285,7 +2285,7 @@
           "date": "2026-10-23",
           "endDate": "",
           "text": "Torikizoku standby",
-          "status": "not-started"
+          "status": "completed"
         }
       ],
       "comment": ""
@@ -2303,7 +2303,7 @@
           "date": "2026-10-22",
           "endDate": "",
           "text": "Torikizoku standby",
-          "status": "not-started"
+          "status": "completed"
         }
       ],
       "comment": ""
@@ -2321,6 +2321,63 @@
     "m_00tz16bv|2026-10-21": {
       "tag": "office",
       "tasks": [],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-10-26": {
+      "tag": "",
+      "tasks": [
+        {
+          "id": "t_1xinzoe9",
+          "date": "2026-10-26",
+          "endDate": "",
+          "text": "Set a meeting with Supy and Sevenrooms",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_jig7aydp|2026-10-24": {
+      "tag": "at_0u69b8jt",
+      "tasks": [
+        {
+          "id": "t_0p0m1r4e",
+          "date": "2026-10-24",
+          "endDate": "",
+          "text": "Torikizoku standby",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-10-25": {
+      "tag": "at_0u69b8jt",
+      "tasks": [
+        {
+          "id": "t_2wlxlvg0",
+          "date": "2026-10-25",
+          "endDate": "",
+          "text": "Torikizoku standby",
+          "status": "completed"
+        }
+      ],
+      "comment": ""
+    },
+    "m_00tz16bv|2026-10-26": {
+      "tag": "office",
+      "tasks": [],
+      "comment": ""
+    },
+    "m_lnyo2eed|2026-10-26": {
+      "tag": "at_0u69b8jt",
+      "tasks": [
+        {
+          "id": "t_pq2633p6",
+          "date": "2026-10-26",
+          "endDate": "",
+          "text": "Torikizoku standby",
+          "status": "in-progress"
+        }
+      ],
       "comment": ""
     }
   },
