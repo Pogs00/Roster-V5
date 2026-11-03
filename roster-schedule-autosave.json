@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-11-03T00:59:35.056Z",
+  "exportedAt": "2026-11-03T01:02:31.009Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1328,6 +1328,11 @@
       "tag": "at_7v4aujf5",
       "tasks": [],
       "comment": "CTO"
+    },
+    "m_lnyo2eed|2026-11-04": {
+      "tag": "at_gfigh1b7",
+      "tasks": [],
+      "comment": ""
     }
   },
   "projectMonitoring": {
